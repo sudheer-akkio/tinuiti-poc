@@ -1,0 +1,101 @@
+strategy,channel,channel_ranking
+awareness_bfy_snacker_18_54,TV ads,0.590169467
+awareness_bfy_snacker_18_54,High Impact Linear,0.576281181
+awareness_bfy_snacker_18_54,In-store ads,0.509901951
+awareness_bfy_snacker_18_54,AVOD ads,0.477179212
+awareness_bfy_snacker_18_54,Outdoor billboards and posters,0.470212718
+awareness_bfy_snacker_18_54,Internet ads,0.464327471
+awareness_bfy_snacker_18_54,YouTube ads,0.460108683
+awareness_bfy_snacker_18_54,Online video ads,0.459129611
+awareness_bfy_snacker_18_54,TikTok ads,0.458911756
+awareness_bfy_snacker_18_54,Facebook ads,0.454972527
+awareness_bfy_snacker_18_54,Outdoor video screen ads,0.452327315
+awareness_bfy_snacker_18_54,Instagram ads,0.448998886
+awareness_bfy_snacker_18_54,Pinterest ads,0.416653333
+awareness_bfy_snacker_18_54,Music streaming ads,0.415692194
+awareness_bfy_snacker_18_54,Snapchat ads,0.391152144
+awareness_bfy_snacker_18_54,In-store promotions,0.349428104
+awareness_bfy_snacker_18_54,Promotions and coupons - online,0.319843712
+awareness_bfy_snacker_18_54,Promotions on retailer website,0.309354166
+awareness_bfy_snacker_18_54,Search on retailer's website,0.305941171
+awareness_bfy_snacker_18_54,Direct mail,0.293938769
+awareness_bfy_snacker_18_54,Internet search,0.278747197
+awareness_bfy_snacker_18_54,Emails - subscribed,0.271108834
+awareness_bfy_snacker_18_54,Podcast ads,0.229128785
+awareness_bfy_snacker_18_54,Affiliate / Ambassador,0.16
+awareness_bfy_snacker_18_54,Reviews / recommendations - influencers,0.149666295
+consideration_bfy_snacker_18_54,TV ads,0.517010638
+consideration_bfy_snacker_18_54,In-store ads,0.51623638
+consideration_bfy_snacker_18_54,High Impact Linear,0.476235236
+consideration_bfy_snacker_18_54,Instagram ads,0.434741302
+consideration_bfy_snacker_18_54,Internet ads,0.429883705
+consideration_bfy_snacker_18_54,Outdoor billboards and posters,0.417372735
+consideration_bfy_snacker_18_54,Facebook ads,0.415331193
+consideration_bfy_snacker_18_54,TikTok ads,0.409145451
+consideration_bfy_snacker_18_54,AVOD ads,0.398371686
+consideration_bfy_snacker_18_54,Promotions and coupons - online,0.397994975
+consideration_bfy_snacker_18_54,Pinterest ads,0.395979797
+consideration_bfy_snacker_18_54,Online video ads,0.395474399
+consideration_bfy_snacker_18_54,YouTube ads,0.391535439
+consideration_bfy_snacker_18_54,In-store promotions,0.389615195
+consideration_bfy_snacker_18_54,Promotions on retailer website,0.381051178
+consideration_bfy_snacker_18_54,Snapchat ads,0.377888873
+consideration_bfy_snacker_18_54,Outdoor video screen ads,0.377624152
+consideration_bfy_snacker_18_54,Music streaming ads,0.348711915
+consideration_bfy_snacker_18_54,Search on retailer's website,0.328633535
+consideration_bfy_snacker_18_54,Internet search,0.304138127
+consideration_bfy_snacker_18_54,Emails - subscribed,0.271108834
+consideration_bfy_snacker_18_54,Direct mail,0.252982213
+consideration_bfy_snacker_18_54,Podcast ads,0.215638587
+consideration_bfy_snacker_18_54,Affiliate / Ambassador,0.154919334
+consideration_bfy_snacker_18_54,Reviews / recommendations - influencers,0.144913767
+repurchase_bfy_snacker_18_54,High Impact Linear,0.467653718
+repurchase_bfy_snacker_18_54,TV ads,0.45
+repurchase_bfy_snacker_18_54,In-store ads,0.411096096
+repurchase_bfy_snacker_18_54,Facebook ads,0.380657326
+repurchase_bfy_snacker_18_54,Internet ads,0.372290209
+repurchase_bfy_snacker_18_54,AVOD ads,0.371483512
+repurchase_bfy_snacker_18_54,Online video ads,0.368781778
+repurchase_bfy_snacker_18_54,Outdoor billboards and posters,0.356791255
+repurchase_bfy_snacker_18_54,Instagram ads,0.354964787
+repurchase_bfy_snacker_18_54,In-store promotions,0.344673759
+repurchase_bfy_snacker_18_54,TikTok ads,0.336749165
+repurchase_bfy_snacker_18_54,Pinterest ads,0.334664011
+repurchase_bfy_snacker_18_54,Outdoor video screen ads,0.334065862
+repurchase_bfy_snacker_18_54,YouTube ads,0.330907842
+repurchase_bfy_snacker_18_54,Promotions and coupons - online,0.319843712
+repurchase_bfy_snacker_18_54,Snapchat ads,0.319374388
+repurchase_bfy_snacker_18_54,Music streaming ads,0.309838668
+repurchase_bfy_snacker_18_54,Promotions on retailer website,0.309354166
+repurchase_bfy_snacker_18_54,Emails - subscribed,0.264575131
+repurchase_bfy_snacker_18_54,Search on retailer's website,0.254558441
+repurchase_bfy_snacker_18_54,Direct mail,0.24
+repurchase_bfy_snacker_18_54,Internet search,0.219317122
+repurchase_bfy_snacker_18_54,Podcast ads,0.173205081
+repurchase_bfy_snacker_18_54,Affiliate / Ambassador,0.129614814
+repurchase_bfy_snacker_18_54,Reviews / recommendations - influencers,0.121243557
+trial_bfy_snacker_18_54,TV ads,0.54
+trial_bfy_snacker_18_54,High Impact Linear,0.524785671
+trial_bfy_snacker_18_54,In-store ads,0.509901951
+trial_bfy_snacker_18_54,AVOD ads,0.447325385
+trial_bfy_snacker_18_54,Facebook ads,0.43954522
+trial_bfy_snacker_18_54,Internet ads,0.438748219
+trial_bfy_snacker_18_54,YouTube ads,0.435660418
+trial_bfy_snacker_18_54,Outdoor billboards and posters,0.433128157
+trial_bfy_snacker_18_54,TikTok ads,0.428485706
+trial_bfy_snacker_18_54,Instagram ads,0.427434205
+trial_bfy_snacker_18_54,Outdoor video screen ads,0.409145451
+trial_bfy_snacker_18_54,In-store promotions,0.40620192
+trial_bfy_snacker_18_54,Online video ads,0.403980198
+trial_bfy_snacker_18_54,Promotions and coupons - online,0.381051178
+trial_bfy_snacker_18_54,Pinterest ads,0.374165739
+trial_bfy_snacker_18_54,Promotions on retailer website,0.372290209
+trial_bfy_snacker_18_54,Music streaming ads,0.366606056
+trial_bfy_snacker_18_54,Snapchat ads,0.364142829
+trial_bfy_snacker_18_54,Search on retailer's website,0.305941171
+trial_bfy_snacker_18_54,Direct mail,0.282842712
+trial_bfy_snacker_18_54,Internet search,0.265141472
+trial_bfy_snacker_18_54,Emails - subscribed,0.264575131
+trial_bfy_snacker_18_54,Podcast ads,0.219089023
+trial_bfy_snacker_18_54,Affiliate / Ambassador,0.154919334
+trial_bfy_snacker_18_54,Reviews / recommendations - influencers,0.144913767

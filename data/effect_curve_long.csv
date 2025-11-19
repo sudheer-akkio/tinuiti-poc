@@ -1,0 +1,1249 @@
+budget,objective,channel,effect_score
+0,awareness,tv ads,0.0
+700000,awareness,tv ads,0.028680003
+1400000,awareness,tv ads,0.052880211
+2100000,awareness,tv ads,0.074160166
+2800000,awareness,tv ads,0.093098589
+3500000,awareness,tv ads,0.110078696
+4200000,awareness,tv ads,0.125341122
+4900000,awareness,tv ads,0.139129525
+5600000,awareness,tv ads,0.151693687
+6300000,awareness,tv ads,0.163148218
+7000000,awareness,tv ads,0.173622641
+7700000,awareness,tv ads,0.183243983
+8400000,awareness,tv ads,0.192162706
+9100000,awareness,tv ads,0.200361259
+9800000,awareness,tv ads,0.20795945
+10500000,awareness,tv ads,0.215004353
+11200000,awareness,tv ads,0.221557674
+11900000,awareness,tv ads,0.227657877
+12600000,awareness,tv ads,0.233351927
+13300000,awareness,tv ads,0.238666674
+14000000,awareness,tv ads,0.243637574
+14700000,awareness,tv ads,0.248285281
+15400000,awareness,tv ads,0.252645005
+16100000,awareness,tv ads,0.256746455
+16800000,awareness,tv ads,0.260580873
+17500000,awareness,tv ads,0.26418472
+0,awareness,internet ads,0.0
+700000,awareness,internet ads,0.0265572
+1400000,awareness,internet ads,0.049897761
+2100000,awareness,internet ads,0.070100412
+2800000,awareness,internet ads,0.087362875
+3500000,awareness,internet ads,0.102038787
+4200000,awareness,internet ads,0.11450703
+4900000,awareness,internet ads,0.125133368
+5600000,awareness,internet ads,0.134225806
+6300000,awareness,internet ads,0.141978531
+7000000,awareness,internet ads,0.148713373
+7700000,awareness,internet ads,0.154578875
+8400000,awareness,internet ads,0.159732289
+9100000,awareness,internet ads,0.164283258
+9800000,awareness,internet ads,0.168329635
+10500000,awareness,internet ads,0.171940863
+11200000,awareness,internet ads,0.17518261
+11900000,awareness,internet ads,0.178092821
+12600000,awareness,internet ads,0.18071334
+13300000,awareness,internet ads,0.183081294
+14000000,awareness,internet ads,0.185230178
+14700000,awareness,internet ads,0.187184093
+15400000,awareness,internet ads,0.188971894
+16100000,awareness,internet ads,0.19060777
+16800000,awareness,internet ads,0.192103151
+17500000,awareness,internet ads,0.193473127
+0,awareness,online video ads,0.0
+700000,awareness,online video ads,0.061145759
+1400000,awareness,online video ads,0.096441108
+2100000,awareness,online video ads,0.118793799
+2800000,awareness,online video ads,0.134230638
+3500000,awareness,online video ads,0.145555056
+4200000,awareness,online video ads,0.154210101
+4900000,awareness,online video ads,0.161029166
+5600000,awareness,online video ads,0.166530194
+6300000,awareness,online video ads,0.171047107
+7000000,awareness,online video ads,0.174815593
+7700000,awareness,online video ads,0.178013871
+8400000,awareness,online video ads,0.180759454
+9100000,awareness,online video ads,0.183136092
+9800000,awareness,online video ads,0.185216335
+10500000,awareness,online video ads,0.187051582
+11200000,awareness,online video ads,0.188687087
+11900000,awareness,online video ads,0.1901448
+12600000,awareness,online video ads,0.19145807
+13300000,awareness,online video ads,0.192655561
+14000000,awareness,online video ads,0.193736514
+14700000,awareness,online video ads,0.194714373
+15400000,awareness,online video ads,0.195614635
+16100000,awareness,online video ads,0.196446234
+16800000,awareness,online video ads,0.197213099
+17500000,awareness,online video ads,0.197923338
+0,awareness,internet search,0.0
+700000,awareness,internet search,0.036642636
+1400000,awareness,internet search,0.053505597
+2100000,awareness,internet search,0.062194854
+2800000,awareness,internet search,0.067191798
+3500000,awareness,internet search,0.070313815
+4200000,awareness,internet search,0.072365704
+4900000,awareness,internet search,0.073780075
+5600000,awareness,internet search,0.074767228
+6300000,awareness,internet search,0.075480852
+7000000,awareness,internet search,0.076005259
+7700000,awareness,internet search,0.076400338
+8400000,awareness,internet search,0.076701115
+9100000,awareness,internet search,0.076935887
+9800000,awareness,internet search,0.077124752
+10500000,awareness,internet search,0.077272294
+11200000,awareness,internet search,0.07738998
+11900000,awareness,internet search,0.077482831
+12600000,awareness,internet search,0.077558022
+13300000,awareness,internet search,0.077620176
+14000000,awareness,internet search,0.077671005
+14700000,awareness,internet search,0.077714255
+15400000,awareness,internet search,0.077751138
+16100000,awareness,internet search,0.077782192
+16800000,awareness,internet search,0.077808244
+17500000,awareness,internet search,0.077830328
+0,awareness,facebook ads,0.0
+700000,awareness,facebook ads,0.028883159
+1400000,awareness,facebook ads,0.053035266
+2100000,awareness,facebook ads,0.072387429
+2800000,awareness,facebook ads,0.087782612
+3500000,awareness,facebook ads,0.100265194
+4200000,awareness,facebook ads,0.110605293
+4900000,awareness,facebook ads,0.119313261
+5600000,awareness,facebook ads,0.126728941
+6300000,awareness,facebook ads,0.133115429
+7000000,awareness,facebook ads,0.138675837
+7700000,awareness,facebook ads,0.143558629
+8400000,awareness,facebook ads,0.147859566
+9100000,awareness,facebook ads,0.151680669
+9800000,awareness,facebook ads,0.155100377
+10500000,awareness,facebook ads,0.158172646
+11200000,awareness,facebook ads,0.160946986
+11900000,awareness,facebook ads,0.163449632
+12600000,awareness,facebook ads,0.165719576
+13300000,awareness,facebook ads,0.167792237
+14000000,awareness,facebook ads,0.169675501
+14700000,awareness,facebook ads,0.171403649
+15400000,awareness,facebook ads,0.172995484
+16100000,awareness,facebook ads,0.174474971
+16800000,awareness,facebook ads,0.175855536
+17500000,awareness,facebook ads,0.177128307
+0,awareness,youtube ads,0.0
+700000,awareness,youtube ads,0.054664491
+1400000,awareness,youtube ads,0.090148208
+2100000,awareness,youtube ads,0.113483714
+2800000,awareness,youtube ads,0.129837993
+3500000,awareness,youtube ads,0.141964462
+4200000,awareness,youtube ads,0.151282744
+4900000,awareness,youtube ads,0.158648022
+5600000,awareness,youtube ads,0.164598959
+6300000,awareness,youtube ads,0.169502403
+7000000,awareness,youtube ads,0.173593802
+7700000,awareness,youtube ads,0.177054112
+8400000,awareness,youtube ads,0.180009283
+9100000,awareness,youtube ads,0.182554806
+9800000,awareness,youtube ads,0.184767751
+10500000,awareness,youtube ads,0.186721128
+11200000,awareness,youtube ads,0.188443339
+11900000,awareness,youtube ads,0.189972972
+12600000,awareness,youtube ads,0.191345163
+13300000,awareness,youtube ads,0.192577565
+14000000,awareness,youtube ads,0.193687942
+14700000,awareness,youtube ads,0.19469621
+15400000,awareness,youtube ads,0.195621172
+16100000,awareness,youtube ads,0.19646807
+16800000,awareness,youtube ads,0.197251313
+17500000,awareness,youtube ads,0.197972905
+0,awareness,instagram ads,0.0
+700000,awareness,instagram ads,0.029193772
+1400000,awareness,instagram ads,0.052192647
+2100000,awareness,instagram ads,0.070117955
+2800000,awareness,instagram ads,0.084305433
+3500000,awareness,instagram ads,0.09574692
+4200000,awareness,instagram ads,0.105243911
+4900000,awareness,instagram ads,0.113256417
+5600000,awareness,instagram ads,0.120129495
+6300000,awareness,instagram ads,0.126069004
+7000000,awareness,instagram ads,0.131252007
+7700000,awareness,instagram ads,0.13581863
+8400000,awareness,instagram ads,0.139876974
+9100000,awareness,instagram ads,0.143502704
+9800000,awareness,instagram ads,0.1467688
+10500000,awareness,instagram ads,0.149700992
+11200000,awareness,instagram ads,0.152376191
+11900000,awareness,instagram ads,0.154794786
+12600000,awareness,instagram ads,0.157021901
+13300000,awareness,instagram ads,0.159070526
+14000000,awareness,instagram ads,0.160961258
+14700000,awareness,instagram ads,0.162700418
+15400000,awareness,instagram ads,0.164315315
+16100000,awareness,instagram ads,0.165818311
+16800000,awareness,instagram ads,0.167198836
+17500000,awareness,instagram ads,0.168478623
+0,awareness,snapchat ads,0.0
+700000,awareness,snapchat ads,0.020647481
+1400000,awareness,snapchat ads,0.03713302
+2100000,awareness,snapchat ads,0.050124289
+2800000,awareness,snapchat ads,0.06048823
+3500000,awareness,snapchat ads,0.068882175
+4200000,awareness,snapchat ads,0.075875914
+4900000,awareness,snapchat ads,0.081795021
+5600000,awareness,snapchat ads,0.086885817
+6300000,awareness,snapchat ads,0.091324671
+7000000,awareness,snapchat ads,0.095226048
+7700000,awareness,snapchat ads,0.098676203
+8400000,awareness,snapchat ads,0.101765431
+9100000,awareness,snapchat ads,0.104541777
+9800000,awareness,snapchat ads,0.107051371
+10500000,awareness,snapchat ads,0.109331839
+11200000,awareness,snapchat ads,0.111407941
+11900000,awareness,snapchat ads,0.113322535
+12600000,awareness,snapchat ads,0.115070149
+13300000,awareness,snapchat ads,0.116691674
+14000000,awareness,snapchat ads,0.118197624
+14700000,awareness,snapchat ads,0.119601923
+15400000,awareness,snapchat ads,0.120906261
+16100000,awareness,snapchat ads,0.122124276
+16800000,awareness,snapchat ads,0.123269775
+17500000,awareness,snapchat ads,0.124338811
+0,awareness,tiktok ads,0.0
+700000,awareness,tiktok ads,0.050569834
+1400000,awareness,tiktok ads,0.083686473
+2100000,awareness,tiktok ads,0.106112854
+2800000,awareness,tiktok ads,0.122237495
+3500000,awareness,tiktok ads,0.134286108
+4200000,awareness,tiktok ads,0.143730247
+4900000,awareness,tiktok ads,0.151263257
+5600000,awareness,tiktok ads,0.157388179
+6300000,awareness,tiktok ads,0.162480293
+7000000,awareness,tiktok ads,0.16678278
+7700000,awareness,tiktok ads,0.170422238
+8400000,awareness,tiktok ads,0.173560305
+9100000,awareness,tiktok ads,0.176281397
+9800000,awareness,tiktok ads,0.178637557
+10500000,awareness,tiktok ads,0.180716855
+11200000,awareness,tiktok ads,0.182573247
+11900000,awareness,tiktok ads,0.184223182
+12600000,awareness,tiktok ads,0.185711806
+13300000,awareness,tiktok ads,0.187062736
+14000000,awareness,tiktok ads,0.188298409
+14700000,awareness,tiktok ads,0.189425977
+15400000,awareness,tiktok ads,0.190451811
+16100000,awareness,tiktok ads,0.191394067
+16800000,awareness,tiktok ads,0.192260714
+17500000,awareness,tiktok ads,0.193054561
+0,awareness,pinterest ads,0.0
+700000,awareness,pinterest ads,0.012956245
+1400000,awareness,pinterest ads,0.024534307
+2100000,awareness,pinterest ads,0.034823706
+2800000,awareness,pinterest ads,0.043915249
+3500000,awareness,pinterest ads,0.051882042
+4200000,awareness,pinterest ads,0.058874441
+4900000,awareness,pinterest ads,0.065056585
+5600000,awareness,pinterest ads,0.070533805
+6300000,awareness,pinterest ads,0.075389202
+7000000,awareness,pinterest ads,0.079775967
+7700000,awareness,pinterest ads,0.083736208
+8400000,awareness,pinterest ads,0.087282288
+9100000,awareness,pinterest ads,0.090513301
+9800000,awareness,pinterest ads,0.093501877
+10500000,awareness,pinterest ads,0.096289073
+11200000,awareness,pinterest ads,0.098872747
+11900000,awareness,pinterest ads,0.10130813
+12600000,awareness,pinterest ads,0.103570096
+13300000,awareness,pinterest ads,0.105693846
+14000000,awareness,pinterest ads,0.107694768
+14700000,awareness,pinterest ads,0.10958985
+15400000,awareness,pinterest ads,0.111391545
+16100000,awareness,pinterest ads,0.113111049
+16800000,awareness,pinterest ads,0.11475554
+17500000,awareness,pinterest ads,0.116335572
+0,awareness,music streaming ads,0.0
+700000,awareness,music streaming ads,0.016164023
+1400000,awareness,music streaming ads,0.030461996
+2100000,awareness,music streaming ads,0.042908313
+2800000,awareness,music streaming ads,0.053670314
+3500000,awareness,music streaming ads,0.062994459
+4200000,awareness,music streaming ads,0.071081286
+4900000,awareness,music streaming ads,0.078162827
+5600000,awareness,music streaming ads,0.084417758
+6300000,awareness,music streaming ads,0.089981273
+7000000,awareness,music streaming ads,0.094963634
+7700000,awareness,music streaming ads,0.099459306
+8400000,awareness,music streaming ads,0.103519358
+9100000,awareness,music streaming ads,0.10721242
+9800000,awareness,music streaming ads,0.110575088
+10500000,awareness,music streaming ads,0.11365542
+11200000,awareness,music streaming ads,0.116488281
+11900000,awareness,music streaming ads,0.119092598
+12600000,awareness,music streaming ads,0.121501782
+13300000,awareness,music streaming ads,0.123737433
+14000000,awareness,music streaming ads,0.125805519
+14700000,awareness,music streaming ads,0.127736143
+15400000,awareness,music streaming ads,0.129539511
+16100000,awareness,music streaming ads,0.131211482
+16800000,awareness,music streaming ads,0.132781974
+17500000,awareness,music streaming ads,0.134261019
+0,awareness,podcast ads,0.0
+700000,awareness,podcast ads,0.025526469
+1400000,awareness,podcast ads,0.038025793
+2100000,awareness,podcast ads,0.043604808
+2800000,awareness,podcast ads,0.046423602
+3500000,awareness,podcast ads,0.048029023
+4200000,awareness,podcast ads,0.049046651
+4900000,awareness,podcast ads,0.049759882
+5600000,awareness,podcast ads,0.05025556
+6300000,awareness,podcast ads,0.050622586
+7000000,awareness,podcast ads,0.050899258
+7700000,awareness,podcast ads,0.051108572
+8400000,awareness,podcast ads,0.051267151
+9100000,awareness,podcast ads,0.05139867
+9800000,awareness,podcast ads,0.051502458
+10500000,awareness,podcast ads,0.051586725
+11200000,awareness,podcast ads,0.051658923
+11900000,awareness,podcast ads,0.051721214
+12600000,awareness,podcast ads,0.051771365
+13300000,awareness,podcast ads,0.051810448
+14000000,awareness,podcast ads,0.051842182
+14700000,awareness,podcast ads,0.051870208
+15400000,awareness,podcast ads,0.051893314
+16100000,awareness,podcast ads,0.051913563
+16800000,awareness,podcast ads,0.051931216
+17500000,awareness,podcast ads,0.051946733
+0,consideration,tv ads,0.0
+700000,consideration,tv ads,0.019781715
+1400000,consideration,tv ads,0.036863219
+2100000,consideration,tv ads,0.052101887
+2800000,consideration,tv ads,0.065819594
+3500000,consideration,tv ads,0.078212708
+4200000,consideration,tv ads,0.089476274
+4900000,consideration,tv ads,0.099722782
+5600000,consideration,tv ads,0.109116785
+6300000,consideration,tv ads,0.117737488
+7000000,consideration,tv ads,0.125664498
+7700000,consideration,tv ads,0.132981722
+8400000,consideration,tv ads,0.139771626
+9100000,consideration,tv ads,0.146072777
+9800000,consideration,tv ads,0.151939891
+10500000,consideration,tv ads,0.157397091
+11200000,consideration,tv ads,0.162489677
+11900000,consideration,tv ads,0.16724119
+12600000,consideration,tv ads,0.171708886
+13300000,consideration,tv ads,0.175901737
+14000000,consideration,tv ads,0.179831212
+14700000,consideration,tv ads,0.18353044
+15400000,consideration,tv ads,0.187045413
+16100000,consideration,tv ads,0.190335647
+16800000,consideration,tv ads,0.193348882
+17500000,consideration,tv ads,0.196182011
+0,consideration,internet ads,0.0
+700000,consideration,internet ads,0.019685149
+1400000,consideration,internet ads,0.037468196
+2100000,consideration,internet ads,0.053285273
+2800000,consideration,internet ads,0.067161651
+3500000,consideration,internet ads,0.079243314
+4200000,consideration,internet ads,0.089731226
+4900000,consideration,internet ads,0.098837822
+5600000,consideration,internet ads,0.106752857
+6300000,consideration,internet ads,0.11358552
+7000000,consideration,internet ads,0.119580378
+7700000,consideration,internet ads,0.124856174
+8400000,consideration,internet ads,0.129539097
+9100000,consideration,internet ads,0.133712446
+9800000,consideration,internet ads,0.137444451
+10500000,consideration,internet ads,0.140798546
+11200000,consideration,internet ads,0.143822916
+11900000,consideration,internet ads,0.146563748
+12600000,consideration,internet ads,0.149045639
+13300000,consideration,internet ads,0.151302225
+14000000,consideration,internet ads,0.153367363
+14700000,consideration,internet ads,0.155249977
+15400000,consideration,internet ads,0.156978197
+16100000,consideration,internet ads,0.158567559
+16800000,consideration,internet ads,0.160033649
+17500000,consideration,internet ads,0.161380497
+0,consideration,online video ads,0.0
+700000,consideration,online video ads,0.040841885
+1400000,consideration,online video ads,0.066104437
+2100000,consideration,online video ads,0.08269407
+2800000,consideration,online video ads,0.09438767
+3500000,consideration,online video ads,0.103094953
+4200000,consideration,online video ads,0.109852284
+4900000,consideration,online video ads,0.1152078
+5600000,consideration,online video ads,0.119561281
+6300000,consideration,online video ads,0.123181361
+7000000,consideration,online video ads,0.126230093
+7700000,consideration,online video ads,0.128811993
+8400000,consideration,online video ads,0.131045947
+9100000,consideration,online video ads,0.132971056
+9800000,consideration,online video ads,0.134656778
+10500000,consideration,online video ads,0.13615939
+11200000,consideration,online video ads,0.137488758
+11900000,consideration,online video ads,0.138682423
+12600000,consideration,online video ads,0.139761894
+13300000,consideration,online video ads,0.140746252
+14000000,consideration,online video ads,0.141644923
+14700000,consideration,online video ads,0.14246418
+15400000,consideration,online video ads,0.143215002
+16100000,consideration,online video ads,0.143904228
+16800000,consideration,online video ads,0.144535944
+17500000,consideration,online video ads,0.145117764
+0,consideration,internet search,0.0
+700000,consideration,internet search,0.043622186
+1400000,consideration,internet search,0.06369714
+2100000,consideration,internet search,0.074041493
+2800000,consideration,internet search,0.079990236
+3500000,consideration,internet search,0.083706923
+4200000,consideration,internet search,0.086149648
+4900000,consideration,internet search,0.087833422
+5600000,consideration,internet search,0.089008605
+6300000,consideration,internet search,0.089858157
+7000000,consideration,internet search,0.090482451
+7700000,consideration,internet search,0.090952783
+8400000,consideration,internet search,0.091310851
+9100000,consideration,internet search,0.091590342
+9800000,consideration,internet search,0.091815181
+10500000,consideration,internet search,0.091990826
+11200000,consideration,internet search,0.092130929
+11900000,consideration,internet search,0.092241465
+12600000,consideration,internet search,0.092330978
+13300000,consideration,internet search,0.092404971
+14000000,consideration,internet search,0.092465483
+14700000,consideration,internet search,0.092516971
+15400000,consideration,internet search,0.092560879
+16100000,consideration,internet search,0.092597848
+16800000,consideration,internet search,0.092628862
+17500000,consideration,internet search,0.092655153
+0,consideration,facebook ads,0.0
+700000,consideration,facebook ads,0.020793422
+1400000,consideration,facebook ads,0.038856577
+2100000,consideration,facebook ads,0.0538794
+2800000,consideration,facebook ads,0.066160445
+3500000,consideration,facebook ads,0.076315387
+4200000,consideration,facebook ads,0.08485607
+4900000,consideration,facebook ads,0.09214312
+5600000,consideration,facebook ads,0.098420441
+6300000,consideration,facebook ads,0.103880221
+7000000,consideration,facebook ads,0.108675862
+7700000,consideration,facebook ads,0.112925598
+8400000,consideration,facebook ads,0.116698471
+9100000,consideration,facebook ads,0.120075153
+9800000,consideration,facebook ads,0.123114688
+10500000,consideration,facebook ads,0.125866414
+11200000,consideration,facebook ads,0.128365533
+11900000,consideration,facebook ads,0.130633433
+12600000,consideration,facebook ads,0.132705044
+13300000,consideration,facebook ads,0.134596428
+14000000,consideration,facebook ads,0.136330491
+14700000,consideration,facebook ads,0.137925126
+15400000,consideration,facebook ads,0.139396909
+16100000,consideration,facebook ads,0.140769723
+16800000,consideration,facebook ads,0.14205187
+17500000,consideration,facebook ads,0.143239047
+0,consideration,youtube ads,0.0
+700000,consideration,youtube ads,0.034974331
+1400000,consideration,youtube ads,0.059325842
+2100000,consideration,youtube ads,0.076048126
+2800000,consideration,youtube ads,0.08806093
+3500000,consideration,youtube ads,0.097119291
+4200000,consideration,youtube ads,0.104193291
+4900000,consideration,youtube ads,0.10985154
+5600000,consideration,youtube ads,0.114477105
+6300000,consideration,youtube ads,0.118322006
+7000000,consideration,youtube ads,0.12155725
+7700000,consideration,youtube ads,0.124310454
+8400000,consideration,youtube ads,0.126680771
+9100000,consideration,youtube ads,0.128733635
+9800000,consideration,youtube ads,0.130529376
+10500000,consideration,youtube ads,0.132118889
+11200000,consideration,youtube ads,0.133519073
+11900000,consideration,youtube ads,0.134771697
+12600000,consideration,youtube ads,0.135895378
+13300000,consideration,youtube ads,0.136903554
+14000000,consideration,youtube ads,0.137821309
+14700000,consideration,youtube ads,0.13865505
+15400000,consideration,youtube ads,0.139418457
+16100000,consideration,youtube ads,0.140121131
+16800000,consideration,youtube ads,0.140770008
+17500000,consideration,youtube ads,0.14136819
+0,consideration,instagram ads,0.0
+700000,consideration,instagram ads,0.02389323
+1400000,consideration,instagram ads,0.043550747
+2100000,consideration,instagram ads,0.059404811
+2800000,consideration,instagram ads,0.072257245
+3500000,consideration,instagram ads,0.08278193
+4200000,consideration,instagram ads,0.091628314
+4900000,consideration,instagram ads,0.099174525
+5600000,consideration,instagram ads,0.105703351
+6300000,consideration,instagram ads,0.111396576
+7000000,consideration,instagram ads,0.116402423
+7700000,consideration,instagram ads,0.12083941
+8400000,consideration,instagram ads,0.124806754
+9100000,consideration,instagram ads,0.128373169
+9800000,consideration,instagram ads,0.131605816
+10500000,consideration,instagram ads,0.134521014
+11200000,consideration,instagram ads,0.137187965
+11900000,consideration,instagram ads,0.139609344
+12600000,consideration,instagram ads,0.14184538
+13300000,consideration,instagram ads,0.143909025
+14000000,consideration,instagram ads,0.145819422
+14700000,consideration,instagram ads,0.147582792
+15400000,consideration,instagram ads,0.149225638
+16100000,consideration,instagram ads,0.150760371
+16800000,consideration,instagram ads,0.152172971
+17500000,consideration,instagram ads,0.153481796
+0,consideration,snapchat ads,0.0
+700000,consideration,snapchat ads,0.016804694
+1400000,consideration,snapchat ads,0.030792371
+2100000,consideration,snapchat ads,0.042194398
+2800000,consideration,snapchat ads,0.051514961
+3500000,consideration,snapchat ads,0.059184145
+4200000,consideration,snapchat ads,0.065649704
+4900000,consideration,snapchat ads,0.071176919
+5600000,consideration,snapchat ads,0.075965623
+6300000,consideration,snapchat ads,0.080172725
+7000000,consideration,snapchat ads,0.083896554
+7700000,consideration,snapchat ads,0.087210118
+8400000,consideration,snapchat ads,0.090188053
+9100000,consideration,snapchat ads,0.092877689
+9800000,consideration,snapchat ads,0.095320411
+10500000,consideration,snapchat ads,0.097551134
+11200000,consideration,snapchat ads,0.099588986
+11900000,consideration,snapchat ads,0.101471686
+12600000,consideration,snapchat ads,0.103195721
+13300000,consideration,snapchat ads,0.104798706
+14000000,consideration,snapchat ads,0.10629015
+14700000,consideration,snapchat ads,0.107683783
+15400000,consideration,snapchat ads,0.108981502
+16100000,consideration,snapchat ads,0.110196383
+16800000,consideration,snapchat ads,0.111341998
+17500000,consideration,snapchat ads,0.112414245
+0,consideration,tiktok ads,0.0
+700000,consideration,tiktok ads,0.035715955
+1400000,consideration,tiktok ads,0.060659486
+2100000,consideration,tiktok ads,0.078226953
+2800000,consideration,tiktok ads,0.091079726
+3500000,consideration,tiktok ads,0.100925439
+4200000,consideration,tiktok ads,0.108694636
+4900000,consideration,tiktok ads,0.11499552
+5600000,consideration,tiktok ads,0.120171816
+6300000,consideration,tiktok ads,0.12448471
+7000000,consideration,tiktok ads,0.128154282
+7700000,consideration,tiktok ads,0.13129892
+8400000,consideration,tiktok ads,0.134017025
+9100000,consideration,tiktok ads,0.136374636
+9800000,consideration,tiktok ads,0.138449742
+10500000,consideration,tiktok ads,0.140280994
+11200000,consideration,tiktok ads,0.141919589
+11900000,consideration,tiktok ads,0.143399667
+12600000,consideration,tiktok ads,0.144717804
+13300000,consideration,tiktok ads,0.145913535
+14000000,consideration,tiktok ads,0.14700268
+14700000,consideration,tiktok ads,0.147976525
+15400000,consideration,tiktok ads,0.148872877
+16100000,consideration,tiktok ads,0.14970566
+16800000,consideration,tiktok ads,0.15047889
+17500000,consideration,tiktok ads,0.151189972
+0,consideration,pinterest ads,0.0
+700000,consideration,pinterest ads,0.010109448
+1400000,consideration,pinterest ads,0.019359058
+2100000,consideration,pinterest ads,0.027761546
+2800000,consideration,pinterest ads,0.035341573
+3500000,consideration,pinterest ads,0.042113392
+4200000,consideration,pinterest ads,0.048160264
+4900000,consideration,pinterest ads,0.053580549
+5600000,consideration,pinterest ads,0.058435751
+6300000,consideration,pinterest ads,0.062783566
+7000000,consideration,pinterest ads,0.066735951
+7700000,consideration,pinterest ads,0.070323661
+8400000,consideration,pinterest ads,0.07353921
+9100000,consideration,pinterest ads,0.076475858
+9800000,consideration,pinterest ads,0.079198626
+10500000,consideration,pinterest ads,0.081741498
+11200000,consideration,pinterest ads,0.084098865
+11900000,consideration,pinterest ads,0.086322637
+12600000,consideration,pinterest ads,0.08838259
+13300000,consideration,pinterest ads,0.090320813
+14000000,consideration,pinterest ads,0.092152187
+14700000,consideration,pinterest ads,0.093890977
+15400000,consideration,pinterest ads,0.095548389
+16100000,consideration,pinterest ads,0.097128372
+16800000,consideration,pinterest ads,0.098638887
+17500000,consideration,pinterest ads,0.100089919
+0,consideration,music streaming ads,0.0
+700000,consideration,music streaming ads,0.00981993
+1400000,consideration,music streaming ads,0.018735126
+2100000,consideration,music streaming ads,0.026691408
+2800000,consideration,music streaming ads,0.033725321
+3500000,consideration,music streaming ads,0.039933096
+4200000,consideration,music streaming ads,0.045398079
+4900000,consideration,music streaming ads,0.050238868
+5600000,consideration,music streaming ads,0.05455603
+6300000,consideration,music streaming ads,0.058433202
+7000000,consideration,music streaming ads,0.061933802
+7700000,consideration,music streaming ads,0.0651121
+8400000,consideration,music streaming ads,0.068007645
+9100000,consideration,music streaming ads,0.070652407
+9800000,consideration,music streaming ads,0.073081179
+10500000,consideration,music streaming ads,0.075314112
+11200000,consideration,music streaming ads,0.077379143
+11900000,consideration,music streaming ads,0.079288944
+12600000,consideration,music streaming ads,0.081060931
+13300000,consideration,music streaming ads,0.08271533
+14000000,consideration,music streaming ads,0.08425255
+14700000,consideration,music streaming ads,0.085690782
+15400000,consideration,music streaming ads,0.087038445
+16100000,consideration,music streaming ads,0.088295112
+16800000,consideration,music streaming ads,0.089479133
+17500000,consideration,music streaming ads,0.090597719
+0,consideration,podcast ads,0.0
+700000,consideration,podcast ads,0.020607913
+1400000,consideration,podcast ads,0.031813847
+2100000,consideration,podcast ads,0.037200504
+2800000,consideration,podcast ads,0.040050324
+3500000,consideration,podcast ads,0.041712688
+4200000,consideration,podcast ads,0.042784587
+4900000,consideration,podcast ads,0.043533317
+5600000,consideration,podcast ads,0.044057825
+6300000,consideration,podcast ads,0.044456057
+7000000,consideration,podcast ads,0.04475715
+7700000,consideration,podcast ads,0.044985171
+8400000,consideration,podcast ads,0.045159022
+9100000,consideration,podcast ads,0.045305729
+9800000,consideration,podcast ads,0.045424179
+10500000,consideration,podcast ads,0.045521211
+11200000,consideration,podcast ads,0.0456053
+11900000,consideration,podcast ads,0.045678474
+12600000,consideration,podcast ads,0.045737825
+13300000,consideration,podcast ads,0.045784782
+14000000,consideration,podcast ads,0.045823234
+14700000,consideration,podcast ads,0.045857231
+15400000,consideration,podcast ads,0.045885702
+16100000,consideration,podcast ads,0.045910936
+16800000,consideration,podcast ads,0.045933075
+17500000,consideration,podcast ads,0.045952655
+0,trial,tv ads,0.0
+700000,trial,tv ads,0.022116325
+1400000,trial,tv ads,0.041116674
+2100000,trial,tv ads,0.058012102
+2800000,trial,tv ads,0.073183525
+3500000,trial,tv ads,0.08688631
+4200000,trial,tv ads,0.099285935
+4900000,trial,tv ads,0.110552741
+5600000,trial,tv ads,0.120868984
+6300000,trial,tv ads,0.13031489
+7000000,trial,tv ads,0.13898953
+7700000,trial,tv ads,0.146992409
+8400000,trial,tv ads,0.15443748
+9100000,trial,tv ads,0.161309246
+9800000,trial,tv ads,0.167696779
+10500000,trial,tv ads,0.173642044
+11200000,trial,tv ads,0.179185366
+11900000,trial,tv ads,0.184374812
+12600000,trial,tv ads,0.189210858
+13300000,trial,tv ads,0.193742257
+14000000,trial,tv ads,0.198013009
+14700000,trial,tv ads,0.202014591
+15400000,trial,tv ads,0.205770229
+16100000,trial,tv ads,0.209308924
+16800000,trial,tv ads,0.212649757
+17500000,trial,tv ads,0.215788717
+0,trial,internet ads,0.0
+700000,trial,internet ads,0.021211185
+1400000,trial,internet ads,0.040260004
+2100000,trial,internet ads,0.05710051
+2800000,trial,internet ads,0.071787398
+3500000,trial,internet ads,0.084509293
+4200000,trial,internet ads,0.095497401
+4900000,trial,internet ads,0.104997412
+5600000,trial,internet ads,0.113224721
+6300000,trial,internet ads,0.120303547
+7000000,trial,internet ads,0.126503948
+7700000,trial,internet ads,0.13194772
+8400000,trial,internet ads,0.136767692
+9100000,trial,internet ads,0.141053779
+9800000,trial,internet ads,0.144882608
+10500000,trial,internet ads,0.14831393
+11200000,trial,internet ads,0.151408523
+11900000,trial,internet ads,0.154202848
+12600000,trial,internet ads,0.156733755
+13300000,trial,internet ads,0.159032433
+14000000,trial,internet ads,0.16112894
+14700000,trial,internet ads,0.163039845
+15400000,trial,internet ads,0.164793859
+16100000,trial,internet ads,0.166404538
+16800000,trial,internet ads,0.1678844
+17500000,trial,internet ads,0.169245163
+0,trial,online video ads,0.0
+700000,trial,online video ads,0.043687999
+1400000,trial,online video ads,0.070318833
+2100000,trial,online video ads,0.08763644
+2800000,trial,online video ads,0.099788272
+3500000,trial,online video ads,0.108808151
+4200000,trial,online video ads,0.115766479
+4900000,trial,online video ads,0.121291708
+5600000,trial,online video ads,0.125779882
+6300000,trial,online video ads,0.129480726
+7000000,trial,online video ads,0.132585443
+7700000,trial,online video ads,0.135229034
+8400000,trial,online video ads,0.137508798
+9100000,trial,online video ads,0.139479219
+9800000,trial,online video ads,0.141212042
+10500000,trial,online video ads,0.142738433
+11200000,trial,online video ads,0.144100391
+11900000,trial,online video ads,0.145322409
+12600000,trial,online video ads,0.146429863
+13300000,trial,online video ads,0.14742995
+14000000,trial,online video ads,0.148333523
+14700000,trial,online video ads,0.149159934
+15400000,trial,online video ads,0.149920674
+16100000,trial,online video ads,0.150622053
+16800000,trial,online video ads,0.151266812
+17500000,trial,online video ads,0.151861481
+0,trial,internet search,0.0
+700000,trial,internet search,0.033157285
+1400000,trial,internet search,0.048421103
+2100000,trial,internet search,0.056277413
+2800000,trial,internet search,0.060805204
+3500000,trial,internet search,0.063626425
+4200000,trial,internet search,0.065481252
+4900000,trial,internet search,0.066756747
+5600000,trial,internet search,0.067651072
+6300000,trial,internet search,0.068294621
+7000000,trial,internet search,0.068769843
+7700000,trial,internet search,0.069126384
+8400000,trial,internet search,0.069398502
+9100000,trial,internet search,0.069610202
+9800000,trial,internet search,0.069780799
+10500000,trial,internet search,0.069913853
+11200000,trial,internet search,0.070019621
+11900000,trial,internet search,0.070103481
+12600000,trial,internet search,0.070171839
+13300000,trial,internet search,0.070228258
+14000000,trial,internet search,0.070274302
+14700000,trial,internet search,0.070313392
+15400000,trial,internet search,0.070346663
+16100000,trial,internet search,0.070374631
+16800000,trial,internet search,0.07039807
+17500000,trial,internet search,0.070417939
+0,trial,facebook ads,0.0
+700000,trial,facebook ads,0.024095822
+1400000,trial,facebook ads,0.04485693
+2100000,trial,facebook ads,0.061980417
+2800000,trial,facebook ads,0.075890607
+3500000,trial,facebook ads,0.087339498
+4200000,trial,facebook ads,0.096935725
+4900000,trial,facebook ads,0.105098263
+5600000,trial,facebook ads,0.112112858
+6300000,trial,facebook ads,0.118198086
+7000000,trial,facebook ads,0.123531909
+7700000,trial,facebook ads,0.128249389
+8400000,trial,facebook ads,0.132431961
+9100000,trial,facebook ads,0.136165784
+9800000,trial,facebook ads,0.139524088
+10500000,trial,facebook ads,0.142557976
+11200000,trial,facebook ads,0.145310389
+11900000,trial,facebook ads,0.147805446
+12600000,trial,facebook ads,0.150078813
+13300000,trial,facebook ads,0.152158293
+14000000,trial,facebook ads,0.154055814
+14700000,trial,facebook ads,0.155802305
+15400000,trial,facebook ads,0.157413487
+16100000,trial,facebook ads,0.158913626
+16800000,trial,facebook ads,0.160315852
+17500000,trial,facebook ads,0.161611336
+0,trial,youtube ads,0.0
+700000,trial,youtube ads,0.044582311
+1400000,trial,youtube ads,0.07514213
+2100000,trial,youtube ads,0.095918234
+2800000,trial,youtube ads,0.110753661
+3500000,trial,youtube ads,0.121901827
+4200000,trial,youtube ads,0.130572976
+4900000,trial,youtube ads,0.137488683
+5600000,trial,youtube ads,0.143126528
+6300000,trial,youtube ads,0.147807762
+7000000,trial,youtube ads,0.151734313
+7700000,trial,youtube ads,0.155073392
+8400000,trial,youtube ads,0.157943208
+9100000,trial,youtube ads,0.160422238
+9800000,trial,youtube ads,0.162587579
+10500000,trial,youtube ads,0.164507453
+11200000,trial,youtube ads,0.16619423
+11900000,trial,youtube ads,0.167702598
+12600000,trial,youtube ads,0.169056212
+13300000,trial,youtube ads,0.170269129
+14000000,trial,youtube ads,0.171372436
+14700000,trial,youtube ads,0.172373664
+15400000,trial,youtube ads,0.173289797
+16100000,trial,youtube ads,0.174132777
+16800000,trial,youtube ads,0.174911997
+17500000,trial,youtube ads,0.17562975
+0,trial,instagram ads,0.0
+700000,trial,instagram ads,0.023842682
+1400000,trial,instagram ads,0.043272639
+2100000,trial,instagram ads,0.058794704
+2800000,trial,instagram ads,0.071341178
+3500000,trial,instagram ads,0.081569335
+4200000,trial,instagram ads,0.09014215
+4900000,trial,instagram ads,0.097422322
+5600000,trial,instagram ads,0.10371483
+6300000,trial,instagram ads,0.109218507
+7000000,trial,instagram ads,0.114025255
+7700000,trial,instagram ads,0.11826564
+8400000,trial,instagram ads,0.122062653
+9100000,trial,instagram ads,0.125483706
+9800000,trial,instagram ads,0.128571496
+10500000,trial,instagram ads,0.131384892
+11200000,trial,instagram ads,0.133908921
+11900000,trial,instagram ads,0.136205111
+12600000,trial,instagram ads,0.138314698
+13300000,trial,instagram ads,0.140265767
+14000000,trial,instagram ads,0.142084929
+14700000,trial,instagram ads,0.143769652
+15400000,trial,instagram ads,0.145342497
+16100000,trial,instagram ads,0.146808663
+16800000,trial,instagram ads,0.148168251
+17500000,trial,instagram ads,0.149423461
+0,trial,snapchat ads,0.0
+700000,trial,snapchat ads,0.016112233
+1400000,trial,snapchat ads,0.029401736
+2100000,trial,snapchat ads,0.040138902
+2800000,trial,snapchat ads,0.04887382
+3500000,trial,snapchat ads,0.056038862
+4200000,trial,snapchat ads,0.062067099
+4900000,trial,snapchat ads,0.067202454
+5600000,trial,snapchat ads,0.071633911
+6300000,trial,snapchat ads,0.075527485
+7000000,trial,snapchat ads,0.078980361
+7700000,trial,snapchat ads,0.08204031
+8400000,trial,snapchat ads,0.084775821
+9100000,trial,snapchat ads,0.087253613
+9800000,trial,snapchat ads,0.089503473
+10500000,trial,snapchat ads,0.09155451
+11200000,trial,snapchat ads,0.093440351
+11900000,trial,snapchat ads,0.095158862
+12600000,trial,snapchat ads,0.096741386
+13300000,trial,snapchat ads,0.098206354
+14000000,trial,snapchat ads,0.099564021
+14700000,trial,snapchat ads,0.1008382
+15400000,trial,snapchat ads,0.102028865
+16100000,trial,snapchat ads,0.103148214
+16800000,trial,snapchat ads,0.104201601
+17500000,trial,snapchat ads,0.10518961
+0,trial,tiktok ads,0.0
+700000,trial,tiktok ads,0.040277314
+1400000,trial,tiktok ads,0.068011013
+2100000,trial,tiktok ads,0.087330018
+2800000,trial,tiktok ads,0.101442245
+3500000,trial,tiktok ads,0.112189252
+4200000,trial,tiktok ads,0.120626443
+4900000,trial,tiktok ads,0.127467768
+5600000,trial,tiktok ads,0.133095554
+6300000,trial,tiktok ads,0.137745468
+7000000,trial,tiktok ads,0.141676404
+7700000,trial,tiktok ads,0.145076422
+8400000,trial,tiktok ads,0.147999598
+9100000,trial,tiktok ads,0.150560461
+9800000,trial,tiktok ads,0.152766805
+10500000,trial,tiktok ads,0.154718982
+11200000,trial,tiktok ads,0.156466279
+11900000,trial,tiktok ads,0.158045757
+12600000,trial,tiktok ads,0.159467217
+13300000,trial,tiktok ads,0.160759405
+14000000,trial,tiktok ads,0.161934527
+14700000,trial,tiktok ads,0.162992486
+15400000,trial,tiktok ads,0.163955621
+16100000,trial,tiktok ads,0.164842559
+16800000,trial,tiktok ads,0.165662528
+17500000,trial,tiktok ads,0.166422699
+0,trial,pinterest ads,0.0
+700000,trial,pinterest ads,0.009338984
+1400000,trial,pinterest ads,0.017840438
+2100000,trial,pinterest ads,0.025526222
+2800000,trial,pinterest ads,0.032427725
+3500000,trial,pinterest ads,0.038566379
+4200000,trial,pinterest ads,0.04402621
+4900000,trial,pinterest ads,0.048904471
+5600000,trial,pinterest ads,0.053262532
+6300000,trial,pinterest ads,0.057155579
+7000000,trial,pinterest ads,0.06068909
+7700000,trial,pinterest ads,0.063892049
+8400000,trial,pinterest ads,0.066761781
+9100000,trial,pinterest ads,0.06938107
+9800000,trial,pinterest ads,0.071808149
+10500000,trial,pinterest ads,0.074074035
+11200000,trial,pinterest ads,0.076174567
+11900000,trial,pinterest ads,0.078155619
+12600000,trial,pinterest ads,0.079991718
+13300000,trial,pinterest ads,0.081718434
+14000000,trial,pinterest ads,0.083348913
+14700000,trial,pinterest ads,0.08489614
+15400000,trial,pinterest ads,0.086370068
+16100000,trial,pinterest ads,0.087775616
+16800000,trial,pinterest ads,0.089119506
+17500000,trial,pinterest ads,0.090410523
+0,trial,music streaming ads,0.0
+700000,trial,music streaming ads,0.011231219
+1400000,trial,music streaming ads,0.021371004
+2100000,trial,music streaming ads,0.030370558
+2800000,trial,music streaming ads,0.03828711
+3500000,trial,music streaming ads,0.045244222
+4200000,trial,music streaming ads,0.051347842
+4900000,trial,music streaming ads,0.056739742
+5600000,trial,music streaming ads,0.061537499
+6300000,trial,music streaming ads,0.065837146
+7000000,trial,music streaming ads,0.069712115
+7700000,trial,music streaming ads,0.073224001
+8400000,trial,music streaming ads,0.076418351
+9100000,trial,music streaming ads,0.079331813
+9800000,trial,music streaming ads,0.08200361
+10500000,trial,music streaming ads,0.084456965
+11200000,trial,music streaming ads,0.086723069
+11900000,trial,music streaming ads,0.088816581
+12600000,trial,music streaming ads,0.090756694
+13300000,trial,music streaming ads,0.092566355
+14000000,trial,music streaming ads,0.094246102
+14700000,trial,music streaming ads,0.095816086
+15400000,trial,music streaming ads,0.09728609
+16100000,trial,music streaming ads,0.098655645
+16800000,trial,music streaming ads,0.099944936
+17500000,trial,music streaming ads,0.101162091
+0,trial,podcast ads,0.0
+700000,trial,podcast ads,0.021736197
+1400000,trial,podcast ads,0.033287567
+2100000,trial,podcast ads,0.038747284
+2800000,trial,podcast ads,0.041607611
+3500000,trial,podcast ads,0.043265361
+4200000,trial,podcast ads,0.044329093
+4900000,trial,podcast ads,0.045073516
+5600000,trial,podcast ads,0.04559421
+6300000,trial,podcast ads,0.045986164
+7000000,trial,podcast ads,0.046283341
+7700000,trial,podcast ads,0.04650831
+8400000,trial,podcast ads,0.046679352
+9100000,trial,podcast ads,0.046823521
+9800000,trial,podcast ads,0.046938924
+10500000,trial,podcast ads,0.047033563
+11200000,trial,podcast ads,0.047115298
+11900000,trial,podcast ads,0.047186294
+12600000,trial,podcast ads,0.047243781
+13300000,trial,podcast ads,0.04728911
+14000000,trial,podcast ads,0.04732616
+14700000,trial,podcast ads,0.047358913
+15400000,trial,podcast ads,0.047386245
+16100000,trial,podcast ads,0.047410408
+16800000,trial,podcast ads,0.047431579
+17500000,trial,podcast ads,0.047450276
+0,re-purchase,tv ads,0.0
+700000,re-purchase,tv ads,0.011537952
+1400000,re-purchase,tv ads,0.021970325
+2100000,re-purchase,tv ads,0.03156577
+2800000,re-purchase,tv ads,0.040429031
+3500000,re-purchase,tv ads,0.048626561
+4200000,re-purchase,tv ads,0.056211045
+4900000,re-purchase,tv ads,0.063241843
+5600000,re-purchase,tv ads,0.069778744
+6300000,re-purchase,tv ads,0.075866994
+7000000,re-purchase,tv ads,0.081551668
+7700000,re-purchase,tv ads,0.086864752
+8400000,re-purchase,tv ads,0.091814691
+9100000,re-purchase,tv ads,0.096455488
+9800000,re-purchase,tv ads,0.100828439
+10500000,re-purchase,tv ads,0.104956101
+11200000,re-purchase,tv ads,0.10885098
+11900000,re-purchase,tv ads,0.112531174
+12600000,re-purchase,tv ads,0.116005357
+13300000,re-purchase,tv ads,0.119281944
+14000000,re-purchase,tv ads,0.122383644
+14700000,re-purchase,tv ads,0.125322971
+15400000,re-purchase,tv ads,0.12811088
+16100000,re-purchase,tv ads,0.130775633
+16800000,re-purchase,tv ads,0.133323881
+17500000,re-purchase,tv ads,0.135726706
+0,re-purchase,internet ads,0.0
+700000,re-purchase,internet ads,0.010099208
+1400000,re-purchase,internet ads,0.019680874
+2100000,re-purchase,internet ads,0.028654183
+2800000,re-purchase,internet ads,0.036972307
+3500000,re-purchase,internet ads,0.044608037
+4200000,re-purchase,internet ads,0.051575783
+4900000,re-purchase,internet ads,0.057912709
+5600000,re-purchase,internet ads,0.063647398
+6300000,re-purchase,internet ads,0.06876536
+7000000,re-purchase,internet ads,0.073390122
+7700000,re-purchase,internet ads,0.077562183
+8400000,re-purchase,internet ads,0.08135716
+9100000,re-purchase,internet ads,0.084816391
+9800000,re-purchase,internet ads,0.087970988
+10500000,re-purchase,internet ads,0.090859363
+11200000,re-purchase,internet ads,0.093512568
+11900000,re-purchase,internet ads,0.095952741
+12600000,re-purchase,internet ads,0.098204156
+13300000,re-purchase,internet ads,0.1002774
+14000000,re-purchase,internet ads,0.102207363
+14700000,re-purchase,internet ads,0.103988208
+15400000,re-purchase,internet ads,0.105645564
+16100000,re-purchase,internet ads,0.107188112
+16800000,re-purchase,internet ads,0.108626694
+17500000,re-purchase,internet ads,0.109968481
+0,re-purchase,online video ads,0.0
+700000,re-purchase,online video ads,0.026386146
+1400000,re-purchase,online video ads,0.045569376
+2100000,re-purchase,online video ads,0.059434392
+2800000,re-purchase,online video ads,0.069739208
+3500000,re-purchase,online video ads,0.077730185
+4200000,re-purchase,online video ads,0.084127435
+4900000,re-purchase,online video ads,0.089369392
+5600000,re-purchase,online video ads,0.093730503
+6300000,re-purchase,online video ads,0.097408804
+7000000,re-purchase,online video ads,0.100551352
+7700000,re-purchase,online video ads,0.103270373
+8400000,re-purchase,online video ads,0.105633362
+9100000,re-purchase,online video ads,0.10771846
+9800000,re-purchase,online video ads,0.109551971
+10500000,re-purchase,online video ads,0.111198065
+11200000,re-purchase,online video ads,0.112676706
+11900000,re-purchase,online video ads,0.114005679
+12600000,re-purchase,online video ads,0.115212555
+13300000,re-purchase,online video ads,0.116308401
+14000000,re-purchase,online video ads,0.117296329
+14700000,re-purchase,online video ads,0.118210418
+15400000,re-purchase,online video ads,0.119056315
+16100000,re-purchase,online video ads,0.119834904
+16800000,re-purchase,online video ads,0.120554394
+17500000,re-purchase,online video ads,0.121228313
+0,re-purchase,internet search,0.0
+700000,re-purchase,internet search,0.022686563
+1400000,re-purchase,internet search,0.033130228
+2100000,re-purchase,internet search,0.038505598
+2800000,re-purchase,internet search,0.04160356
+3500000,re-purchase,internet search,0.043533869
+4200000,re-purchase,internet search,0.044802961
+4900000,re-purchase,internet search,0.045675669
+5600000,re-purchase,internet search,0.046287575
+6300000,re-purchase,internet search,0.046727898
+7000000,re-purchase,internet search,0.047053049
+7700000,re-purchase,internet search,0.047296999
+8400000,re-purchase,internet search,0.047483185
+9100000,re-purchase,internet search,0.047628032
+9800000,re-purchase,internet search,0.047744756
+10500000,re-purchase,internet search,0.047835793
+11200000,re-purchase,internet search,0.047908161
+11900000,re-purchase,internet search,0.047965539
+12600000,re-purchase,internet search,0.04801231
+13300000,re-purchase,internet search,0.048050912
+14000000,re-purchase,internet search,0.048082416
+14700000,re-purchase,internet search,0.048109162
+15400000,re-purchase,internet search,0.048131926
+16100000,re-purchase,internet search,0.048151063
+16800000,re-purchase,internet search,0.048167099
+17500000,re-purchase,internet search,0.048180694
+0,re-purchase,facebook ads,0.0
+700000,re-purchase,facebook ads,0.011921546
+1400000,re-purchase,facebook ads,0.023009732
+2100000,re-purchase,facebook ads,0.032978413
+2800000,re-purchase,facebook ads,0.041666059
+3500000,re-purchase,facebook ads,0.049251311
+4200000,re-purchase,facebook ads,0.055874667
+4900000,re-purchase,facebook ads,0.061720972
+5600000,re-purchase,facebook ads,0.066893391
+6300000,re-purchase,facebook ads,0.071508018
+7000000,re-purchase,facebook ads,0.07565329
+7700000,re-purchase,facebook ads,0.079411082
+8400000,re-purchase,facebook ads,0.082811675
+9100000,re-purchase,facebook ads,0.085902473
+9800000,re-purchase,facebook ads,0.088734802
+10500000,re-purchase,facebook ads,0.091345128
+11200000,re-purchase,facebook ads,0.093743825
+11900000,re-purchase,facebook ads,0.09596368
+12600000,re-purchase,facebook ads,0.098025275
+13300000,re-purchase,facebook ads,0.099914697
+14000000,re-purchase,facebook ads,0.101672394
+14700000,re-purchase,facebook ads,0.103311437
+15400000,re-purchase,facebook ads,0.104836636
+16100000,re-purchase,facebook ads,0.106268326
+16800000,re-purchase,facebook ads,0.107617058
+17500000,re-purchase,facebook ads,0.108886368
+0,re-purchase,youtube ads,0.0
+700000,re-purchase,youtube ads,0.017789193
+1400000,re-purchase,youtube ads,0.032123246
+2100000,re-purchase,youtube ads,0.043120915
+2800000,re-purchase,youtube ads,0.051563978
+3500000,re-purchase,youtube ads,0.058236899
+4200000,re-purchase,youtube ads,0.063652767
+4900000,re-purchase,youtube ads,0.06812397
+5600000,re-purchase,youtube ads,0.071881107
+6300000,re-purchase,youtube ads,0.075084317
+7000000,re-purchase,youtube ads,0.077840769
+7700000,re-purchase,youtube ads,0.080232932
+8400000,re-purchase,youtube ads,0.082326559
+9100000,re-purchase,youtube ads,0.084177876
+9800000,re-purchase,youtube ads,0.085821974
+10500000,re-purchase,youtube ads,0.087288109
+11200000,re-purchase,youtube ads,0.0886026
+11900000,re-purchase,youtube ads,0.089782781
+12600000,re-purchase,youtube ads,0.090852302
+13300000,re-purchase,youtube ads,0.091822587
+14000000,re-purchase,youtube ads,0.092706453
+14700000,re-purchase,youtube ads,0.093519262
+15400000,re-purchase,youtube ads,0.094272158
+16100000,re-purchase,youtube ads,0.094962205
+16800000,re-purchase,youtube ads,0.095598133
+17500000,re-purchase,youtube ads,0.096190182
+0,re-purchase,instagram ads,0.0
+700000,re-purchase,instagram ads,0.011091129
+1400000,re-purchase,instagram ads,0.021024688
+2100000,re-purchase,instagram ads,0.029686782
+2800000,re-purchase,instagram ads,0.037157378
+3500000,re-purchase,instagram ads,0.043537675
+4200000,re-purchase,instagram ads,0.049072479
+4900000,re-purchase,instagram ads,0.053932988
+5600000,re-purchase,instagram ads,0.058232678
+6300000,re-purchase,instagram ads,0.062064731
+7000000,re-purchase,instagram ads,0.065500227
+7700000,re-purchase,instagram ads,0.068597999
+8400000,re-purchase,instagram ads,0.071413225
+9100000,re-purchase,instagram ads,0.073981238
+9800000,re-purchase,instagram ads,0.076342093
+10500000,re-purchase,instagram ads,0.078499386
+11200000,re-purchase,instagram ads,0.080491507
+11900000,re-purchase,instagram ads,0.082323493
+12600000,re-purchase,instagram ads,0.084031465
+13300000,re-purchase,instagram ads,0.08562043
+14000000,re-purchase,instagram ads,0.087104603
+14700000,re-purchase,instagram ads,0.088489751
+15400000,re-purchase,instagram ads,0.089787062
+16100000,re-purchase,instagram ads,0.09101026
+16800000,re-purchase,instagram ads,0.092157396
+17500000,re-purchase,instagram ads,0.093219232
+0,re-purchase,snapchat ads,0.0
+700000,re-purchase,snapchat ads,0.008339892
+1400000,re-purchase,snapchat ads,0.015865762
+2100000,re-purchase,snapchat ads,0.022485732
+2800000,re-purchase,snapchat ads,0.028240885
+3500000,re-purchase,snapchat ads,0.033195683
+4200000,re-purchase,snapchat ads,0.037502534
+4900000,re-purchase,snapchat ads,0.041288246
+5600000,re-purchase,snapchat ads,0.044638202
+6300000,re-purchase,snapchat ads,0.047634708
+7000000,re-purchase,snapchat ads,0.050331514
+7700000,re-purchase,snapchat ads,0.052776742
+8400000,re-purchase,snapchat ads,0.055000247
+9100000,re-purchase,snapchat ads,0.057035641
+9800000,re-purchase,snapchat ads,0.058904594
+10500000,re-purchase,snapchat ads,0.060633187
+11200000,re-purchase,snapchat ads,0.062225598
+11900000,re-purchase,snapchat ads,0.063708016
+12600000,re-purchase,snapchat ads,0.065079022
+13300000,re-purchase,snapchat ads,0.06636371
+14000000,re-purchase,snapchat ads,0.067565759
+14700000,re-purchase,snapchat ads,0.068694621
+15400000,re-purchase,snapchat ads,0.069755591
+16100000,re-purchase,snapchat ads,0.070753519
+16800000,re-purchase,snapchat ads,0.071698457
+17500000,re-purchase,snapchat ads,0.072595885
+0,re-purchase,tiktok ads,0.0
+700000,re-purchase,tiktok ads,0.017473384
+1400000,re-purchase,tiktok ads,0.031447066
+2100000,re-purchase,tiktok ads,0.042315298
+2800000,re-purchase,tiktok ads,0.050784346
+3500000,re-purchase,tiktok ads,0.057546355
+4200000,re-purchase,tiktok ads,0.063084352
+4900000,re-purchase,tiktok ads,0.067708542
+5600000,re-purchase,tiktok ads,0.071611812
+6300000,re-purchase,tiktok ads,0.074945731
+7000000,re-purchase,tiktok ads,0.077834194
+7700000,re-purchase,tiktok ads,0.080355549
+8400000,re-purchase,tiktok ads,0.082582202
+9100000,re-purchase,tiktok ads,0.084540013
+9800000,re-purchase,tiktok ads,0.086281604
+10500000,re-purchase,tiktok ads,0.087837368
+11200000,re-purchase,tiktok ads,0.089245333
+11900000,re-purchase,tiktok ads,0.090517923
+12600000,re-purchase,tiktok ads,0.091669733
+13300000,re-purchase,tiktok ads,0.092724013
+14000000,re-purchase,tiktok ads,0.093689886
+14700000,re-purchase,tiktok ads,0.094561593
+15400000,re-purchase,tiktok ads,0.095366461
+16100000,re-purchase,tiktok ads,0.096112136
+16800000,re-purchase,tiktok ads,0.096802297
+17500000,re-purchase,tiktok ads,0.097441423
+0,re-purchase,pinterest ads,0.0
+700000,re-purchase,pinterest ads,0.004931803
+1400000,re-purchase,pinterest ads,0.009639836
+2100000,re-purchase,pinterest ads,0.014104582
+2800000,re-purchase,pinterest ads,0.018296756
+3500000,re-purchase,pinterest ads,0.022225128
+4200000,re-purchase,pinterest ads,0.025863166
+4900000,re-purchase,pinterest ads,0.029233979
+5600000,re-purchase,pinterest ads,0.032385698
+6300000,re-purchase,pinterest ads,0.03528413
+7000000,re-purchase,pinterest ads,0.037947688
+7700000,re-purchase,pinterest ads,0.040416283
+8400000,re-purchase,pinterest ads,0.042670643
+9100000,re-purchase,pinterest ads,0.044744242
+9800000,re-purchase,pinterest ads,0.046691089
+10500000,re-purchase,pinterest ads,0.048518915
+11200000,re-purchase,pinterest ads,0.050227543
+11900000,re-purchase,pinterest ads,0.051833046
+12600000,re-purchase,pinterest ads,0.053316764
+13300000,re-purchase,pinterest ads,0.054725843
+14000000,re-purchase,pinterest ads,0.056070719
+14700000,re-purchase,pinterest ads,0.057353501
+15400000,re-purchase,pinterest ads,0.058565927
+16100000,re-purchase,pinterest ads,0.059722035
+16800000,re-purchase,pinterest ads,0.060829664
+17500000,re-purchase,pinterest ads,0.061890255
+0,re-purchase,music streaming ads,0.0
+700000,re-purchase,music streaming ads,0.005287992
+1400000,re-purchase,music streaming ads,0.010316272
+2100000,re-purchase,music streaming ads,0.015031826
+2800000,re-purchase,music streaming ads,0.019407728
+3500000,re-purchase,music streaming ads,0.023442442
+4200000,re-purchase,music streaming ads,0.027129269
+4900000,re-purchase,music streaming ads,0.030495465
+5600000,re-purchase,music streaming ads,0.033575752
+6300000,re-purchase,music streaming ads,0.036407224
+7000000,re-purchase,music streaming ads,0.039016641
+7700000,re-purchase,music streaming ads,0.041429676
+8400000,re-purchase,music streaming ads,0.043664343
+9100000,re-purchase,music streaming ads,0.045741426
+9800000,re-purchase,music streaming ads,0.047676277
+10500000,re-purchase,music streaming ads,0.049482285
+11200000,re-purchase,music streaming ads,0.051171366
+11900000,re-purchase,music streaming ads,0.052755179
+12600000,re-purchase,music streaming ads,0.054243576
+13300000,re-purchase,music streaming ads,0.055645093
+14000000,re-purchase,music streaming ads,0.056967183
+14700000,re-purchase,music streaming ads,0.058213514
+15400000,re-purchase,music streaming ads,0.059390181
+16100000,re-purchase,music streaming ads,0.06050405
+16800000,re-purchase,music streaming ads,0.061559803
+17500000,re-purchase,music streaming ads,0.062563627
+0,re-purchase,podcast ads,0.0
+700000,re-purchase,podcast ads,0.010469598
+1400000,re-purchase,podcast ads,0.017454079
+2100000,re-purchase,podcast ads,0.021446076
+2800000,re-purchase,podcast ads,0.023805016
+3500000,re-purchase,podcast ads,0.025287731
+4200000,re-purchase,podcast ads,0.026283844
+4900000,re-purchase,podcast ads,0.026982223
+5600000,re-purchase,podcast ads,0.027498824
+6300000,re-purchase,podcast ads,0.027876384
+7000000,re-purchase,podcast ads,0.028176009
+7700000,re-purchase,podcast ads,0.028409197
+8400000,re-purchase,podcast ads,0.028598577
+9100000,re-purchase,podcast ads,0.028753466
+9800000,re-purchase,podcast ads,0.028883614
+10500000,re-purchase,podcast ads,0.02898976
+11200000,re-purchase,podcast ads,0.029078674
+11900000,re-purchase,podcast ads,0.029156325
+12600000,re-purchase,podcast ads,0.029222766
+13300000,re-purchase,podcast ads,0.029280386
+14000000,re-purchase,podcast ads,0.029330584
+14700000,re-purchase,podcast ads,0.029372638
+15400000,re-purchase,podcast ads,0.029408753
+16100000,re-purchase,podcast ads,0.029440597
+16800000,re-purchase,podcast ads,0.029469295
+17500000,re-purchase,podcast ads,0.029495214
