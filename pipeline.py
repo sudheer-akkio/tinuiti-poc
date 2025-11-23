@@ -54,6 +54,21 @@ def _snowflake_safe_columns(columns: List[str]) -> List[str]:
 
         if not cleaned:
             cleaned = f"column_{idx + 1}"
+        
+        # If column starts with a number, prepend a prefix to make it Snowflake-safe
+        # This prevents needing quoted identifiers
+        if cleaned and cleaned[0].isdigit():
+            # Special handling for patterns like "1_to_3_hours_a_day" -> "hours_1_to_3_a_day"
+            if "_hours_" in cleaned:
+                # Extract the number ranges and rebuild: "1_to_3_hours_a_day" -> "hours_1_to_3_a_day"
+                parts = cleaned.split("_hours_", 1)
+                if len(parts) == 2:
+                    cleaned = f"hours_{parts[0]}_{parts[1]}"
+                else:
+                    cleaned = f"hours_{cleaned}"
+            else:
+                # Generic case: prepend "col_" to any column starting with a number
+                cleaned = f"col_{cleaned}"
 
         base_name = cleaned
         suffix = 1

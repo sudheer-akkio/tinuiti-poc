@@ -1,4 +1,4 @@
-channel,don_t_use_on_reg_day,less_than_an_hour_a_day,1_to_3_hours_a_day,3_to_5_hours_a_day,more_than_5_hours_a_day
+channel,don_t_use_on_reg_day,less_than_an_hour_a_day,hours_1_to_3_a_day,hours_3_to_5_a_day,more_than_5_hours_a_day
 TV viewing,0.292626858,0.232657957,0.299702606,0.090721936,0.084290642
 AVOD,0.230415216,0.256426046,0.316697988,0.098578952,0.097881797
 BVOD,0.363835088,0.210375351,0.254139061,0.092152013,0.079498487
