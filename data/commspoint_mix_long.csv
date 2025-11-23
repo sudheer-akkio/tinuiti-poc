@@ -1,0 +1,55 @@
+mix_type,channel,channel_group,budget,grps,impressions
+2025_baseline,TV ads,Broadcast,6993304,785.1987493,368068631.6
+2025_baseline,AVOD ads,Broadcast,4053864,720.6737796,337822000.0
+2025_baseline,Online video ads,Digital,592836,252.9387434,118567200.0
+2025_baseline,Internet search,Digital,834267,197.7485685,92696333.33
+2025_baseline,YouTube ads,Digital,1544597,549.1800208,257432833.3
+2025_baseline,Facebook ads,Social network,2125520,604.5813208,283402666.7
+2025_baseline,Instagram ads,Social network,2125520,604.5813208,283402666.7
+2025_baseline,TikTok ads,Social network,656277,215.3895456,100965692.3
+2025_baseline,Direct mail,Direct,18376,32.66784819,15313333.33
+2025_baseline,Search on retailer's website,Retail,10382848,2578.541497,1208713388.0
+2025_baseline,Promotions on retailer website,Retail,12167026,1730.389893,811135066.7
+2025_baseline,Affiliate / Ambassador,Influence,132399,282.4460448,132399000.0
+2025_baseline,Reviews / recommendations - influencers,Influence,5373166,563.2700206,264037641.3
+balanced_reach,TV ads,Broadcast,6932500,778.3717581,364868421.1
+balanced_reach,AVOD ads,Broadcast,4798398,853.0329638,399866500.0
+balanced_reach,Online video ads,Digital,611414,260.865212,122282800.0
+balanced_reach,Internet search,Digital,860411,203.9455517,95601222.22
+balanced_reach,YouTube ads,Digital,1544597,549.1800208,257432833.3
+balanced_reach,Facebook ads,Social network,2820000,802.1186931,376000000.0
+balanced_reach,Instagram ads,Social network,2820000,802.1186931,376000000.0
+balanced_reach,TikTok ads,Social network,900000,295.3792241,138461538.5
+balanced_reach,Direct mail,Direct,14000,24.88843463,11666666.67
+balanced_reach,Search on retailer's website,Retail,10382848,2578.541497,1208713388.0
+balanced_reach,Promotions on retailer website,Retail,11085610,1576.591313,739040666.7
+balanced_reach,Affiliate / Ambassador,Influence,136547,291.29495,136547000.0
+balanced_reach,Reviews / recommendations - influencers,Influence,4093675,429.1407341,201163390.7
+brand_impact,TV ads,Broadcast,6932500,778.3717581,364868421.1
+brand_impact,AVOD ads,Broadcast,4798398,853.0329638,399866500.0
+brand_impact,Online video ads,Digital,600000,255.9953276,120000000.0
+brand_impact,Internet search,Digital,860411,203.9455517,95601222.22
+brand_impact,YouTube ads,Digital,1446011,514.1278606,241001833.3
+brand_impact,Music streaming ads,Digital,300000,63.9988319,30000000.0
+brand_impact,Podcast ads,Digital,300000,63.9988319,30000000.0
+brand_impact,Facebook ads,Social network,2575000,732.4310762,343333333.3
+brand_impact,Instagram ads,Social network,2575000,732.4310762,343333333.3
+brand_impact,TikTok ads,Social network,900000,295.3792241,138461538.5
+brand_impact,Direct mail,Direct,14000,24.88843463,11666666.67
+brand_impact,Search on retailer's website,Retail,10382848,2578.541497,1208713388.0
+brand_impact,Promotions on retailer website,Retail,11085610,1576.591313,739040666.7
+brand_impact,Affiliate / Ambassador,Influence,136547,291.29495,136547000.0
+brand_impact,Reviews / recommendations - influencers,Influence,4093675,429.1407341,201163390.7
+conversion_focused,TV ads,Broadcast,6932500,778.3717581,364868421.1
+conversion_focused,AVOD ads,Broadcast,4712993,837.8501298,392749416.7
+conversion_focused,Online video ads,Digital,600000,255.9953276,120000000.0
+conversion_focused,Internet search,Digital,860411,203.9455517,95601222.22
+conversion_focused,YouTube ads,Digital,1400000,497.7686925,233333333.3
+conversion_focused,Facebook ads,Social network,2400000,682.6542069,320000000.0
+conversion_focused,Instagram ads,Social network,2400000,682.6542069,320000000.0
+conversion_focused,TikTok ads,Social network,900000,295.3792241,138461538.5
+conversion_focused,Direct mail,Direct,14000,24.88843463,11666666.67
+conversion_focused,Search on retailer's website,Retail,10382848,2578.541497,1208713388.0
+conversion_focused,Promotions on retailer website,Retail,12167026,1730.389893,811135066.7
+conversion_focused,Affiliate / Ambassador,Influence,136547,291.29495,136547000.0
+conversion_focused,Reviews / recommendations - influencers,Influence,4093675,429.1407341,201163390.7

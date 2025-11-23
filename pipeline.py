@@ -16,6 +16,8 @@ CHANNEL_RANKING_PREFIX = "CHANNEL_RANKING_"
 CHANNEL_RANKING_OUTPUT = OUTPUT_DIR / "channel_ranking_long.csv"
 EFFECT_CURVE_OUTPUT = OUTPUT_DIR / "effect_curve_long.csv"
 MEDIARADAR_OUTPUT = OUTPUT_DIR / "mediaradar_chomps_long.csv"
+COMMSPOINT_MIX_OUTPUT = OUTPUT_DIR / "commspoint_mix_long.csv"
+COMMSPOINT_MULTICHANNEL_CURVE_OUTPUT = OUTPUT_DIR / "commspoint_multichannel_curve_long.csv"
 MEDIA_CONSUMPTION_FILES = [
     "MEDIA_CONSUMPTION_DAY.csv",
     "MEDIA_CONSUMPTION_WEEK.csv",
@@ -323,6 +325,124 @@ def _parse_period(period_token: str) -> datetime:
         raise ValueError(f"Unrecognized period token '{period_token}' in MEDIARADAR data.") from err
 
 
+def extract_mix_type(file_name: str) -> str:
+    """Extract mix type from COMMSPOINT MIX file name."""
+    base = file_name.replace(".csv", "").replace("COMMSPOINT_", "")
+    # Handle special case for 2025_BASELINE_MIX
+    if base.startswith("2025_"):
+        return "2025_baseline"
+    return base.lower().replace("_mix", "")
+
+
+def combine_commspoint_mix(data_dir: Path, output_path: Path) -> Path:
+    """Combine COMMSPOINT MIX files (BASELINE, BALANCED_REACH, BRAND_IMPACT, CONVERSION_FOCUSED)."""
+    mix_files = sorted(data_dir.glob("COMMSPOINT_*_MIX.csv"))
+    if not mix_files:
+        print("[WARN] No COMMSPOINT MIX files found.")
+        return output_path
+
+    frames: List[pd.DataFrame] = []
+    expected_columns: Optional[List[str]] = None
+
+    for csv_path in mix_files:
+        df = pd.read_csv(csv_path)
+        if expected_columns is None:
+            expected_columns = df.columns.tolist()
+        elif df.columns.tolist() != expected_columns:
+            raise ValueError(
+                f"COMMSPOINT MIX column mismatch in {csv_path.name}. "
+                "Ensure all mix files share the same schema."
+            )
+        
+        # Remove any rows where channel is null or empty
+        df = df.dropna(subset=["CHANNEL"])
+        df = df[df["CHANNEL"].str.strip() != ""]
+        
+        # Add mix_type column
+        mix_type = extract_mix_type(csv_path.name)
+        df.insert(0, "mix_type", mix_type)
+        frames.append(df)
+
+    if not frames:
+        print("[WARN] No valid data found in COMMSPOINT MIX files.")
+        return output_path
+
+    combined = pd.concat(frames, ignore_index=True)
+    
+    # Make sure all column names are lowercase
+    combined.columns = combined.columns.str.lower()
+    
+    combined.to_csv(output_path, index=False)
+    print(f"Saved combined COMMSPOINT MIX table to {output_path}")
+    return output_path
+
+
+def combine_commspoint_multichannel_curves(data_dir: Path, output_path: Path) -> Path:
+    """Combine and melt COMMSPOINT MULTICHANNEL_CURVE files (1PLUS, 3PLUS)."""
+    curve_files = sorted(data_dir.glob("COMMSPOINT_MULTICHANNEL_CURVE_*.csv"))
+    if not curve_files:
+        print("[WARN] No COMMSPOINT MULTICHANNEL_CURVE files found.")
+        return output_path
+
+    frames: List[pd.DataFrame] = []
+    
+    for csv_path in curve_files:
+        df = pd.read_csv(csv_path)
+        
+        # Extract reach threshold from filename (1PLUS or 3PLUS)
+        if "1PLUS" in csv_path.name:
+            reach_threshold = "1plus"
+        elif "3PLUS" in csv_path.name:
+            reach_threshold = "3plus"
+        else:
+            reach_threshold = "unknown"
+        
+        # Ensure BUDGET column exists
+        if "BUDGET" not in df.columns:
+            raise ValueError(f"COMMSPOINT MULTICHANNEL_CURVE file {csv_path.name} must contain a BUDGET column.")
+        
+        # Melt the dataframe: BUDGET and CHANNEL_MIX stay as id_vars, all channel columns become rows
+        id_vars = ["BUDGET", "CHANNEL_MIX"]
+        value_vars = [col for col in df.columns if col not in id_vars]
+        
+        long_df = df.melt(
+            id_vars=id_vars,
+            value_vars=value_vars,
+            var_name="channel",
+            value_name="effect_score"
+        )
+        
+        # Remove rows where effect_score is null
+        long_df = long_df.dropna(subset=["effect_score"])
+        
+        # Add reach_threshold column
+        long_df.insert(0, "reach_threshold", reach_threshold)
+        
+        # Rename columns to lowercase
+        long_df = long_df.rename(columns={
+            "BUDGET": "budget",
+            "CHANNEL_MIX": "channel_mix"
+        })
+        
+        # Reorder columns
+        long_df = long_df[["reach_threshold", "budget", "channel", "channel_mix", "effect_score"]]
+        
+        # Normalize channel names to lowercase
+        long_df["channel"] = long_df["channel"].str.lower()
+        
+        frames.append(long_df)
+
+    if not frames:
+        print("[WARN] No valid data found in COMMSPOINT MULTICHANNEL_CURVE files.")
+        return output_path
+
+    combined = pd.concat(frames, ignore_index=True)
+    
+    combined.to_csv(output_path, index=False)
+    print(f"Saved combined COMMSPOINT MULTICHANNEL_CURVE table to {output_path}")
+    return output_path
+
+
 def run_pipeline() -> None:
     print("Starting CSV review...")
     summarize_csvs(DATA_DIR)
@@ -338,6 +458,12 @@ def run_pipeline() -> None:
 
     print("\nReshaping MEDIARADAR CHOMPS data...")
     reshape_mediaradar(DATA_DIR, MEDIARADAR_OUTPUT)
+
+    print("\nCombining COMMSPOINT MIX files...")
+    combine_commspoint_mix(DATA_DIR, COMMSPOINT_MIX_OUTPUT)
+
+    print("\nCombining COMMSPOINT MULTICHANNEL_CURVE files...")
+    combine_commspoint_multichannel_curves(DATA_DIR, COMMSPOINT_MULTICHANNEL_CURVE_OUTPUT)
 
     print("\nPipeline complete.")
 
