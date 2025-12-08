@@ -18,6 +18,7 @@ EFFECT_CURVE_OUTPUT = OUTPUT_DIR / "effect_curve_long.csv"
 MEDIARADAR_OUTPUT = OUTPUT_DIR / "mediaradar_chomps_long.csv"
 COMMSPOINT_MIX_OUTPUT = OUTPUT_DIR / "commspoint_mix_long.csv"
 COMMSPOINT_MULTICHANNEL_CURVE_OUTPUT = OUTPUT_DIR / "commspoint_multichannel_curve_long.csv"
+PATHMATICS_OUTPUT = OUTPUT_DIR / "pathmatics_chomps_competitive_report.csv"
 MEDIA_CONSUMPTION_FILES = [
     "MEDIA_CONSUMPTION_DAY.csv",
     "MEDIA_CONSUMPTION_WEEK.csv",
@@ -458,6 +459,51 @@ def combine_commspoint_multichannel_curves(data_dir: Path, output_path: Path) ->
     return output_path
 
 
+def process_pathmatics_competitive_report(data_dir: Path, output_path: Path) -> Path:
+    """Process PATHMATICS competitive advertising report data."""
+    pathmatics_path = data_dir / "PATHMATICS_CHOMPS_COMPETITIVE_REPORT.csv"
+    if not pathmatics_path.exists():
+        raise FileNotFoundError(pathmatics_path)
+
+    df = pd.read_csv(pathmatics_path)
+    
+    # Standardize column names: lowercase and replace spaces/special chars with underscores
+    df.columns = (
+        df.columns.str.lower()
+        .str.replace(r"[^0-9a-z]+", "_", regex=True)
+        .str.strip("_")
+    )
+    
+    # Clean string columns: remove any quote characters from actual data values
+    # (CSV quoting is handled automatically by pandas when reading/writing, but we want
+    # to ensure no quote characters persist in the actual data values themselves)
+    # This ensures clean string data for Snowflake, which will handle CSV quoting
+    # automatically when loading the file
+    string_columns = df.select_dtypes(include=["object"]).columns
+    for col in string_columns:
+        # Only process non-null values to preserve NaN handling
+        mask = df[col].notna()
+        df.loc[mask, col] = df.loc[mask, col].astype(str).str.replace('"', "", regex=False)
+    
+    # Ensure DATE column is properly formatted as datetime
+    if "date" in df.columns:
+        df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    
+    # Remove any rows with null critical fields
+    critical_fields = ["advertiser", "date", "channel", "spend_usd"]
+    existing_critical = [col for col in critical_fields if col in df.columns]
+    df = df.dropna(subset=existing_critical)
+    
+    # Sort by date and advertiser for consistency
+    sort_cols = ["date", "advertiser"]
+    sort_cols = [col for col in sort_cols if col in df.columns]
+    df = df.sort_values(sort_cols).reset_index(drop=True)
+    
+    df.to_csv(output_path, index=False)
+    print(f"Saved PATHMATICS competitive report table to {output_path}")
+    return output_path
+
+
 def run_pipeline() -> None:
     print("Starting CSV review...")
     summarize_csvs(DATA_DIR)
@@ -479,6 +525,9 @@ def run_pipeline() -> None:
 
     print("\nCombining COMMSPOINT MULTICHANNEL_CURVE files...")
     combine_commspoint_multichannel_curves(DATA_DIR, COMMSPOINT_MULTICHANNEL_CURVE_OUTPUT)
+
+    print("\nProcessing PATHMATICS competitive report...")
+    process_pathmatics_competitive_report(DATA_DIR, PATHMATICS_OUTPUT)
 
     print("\nPipeline complete.")
 

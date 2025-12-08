@@ -1,0 +1,777 @@
+advertiser,brand_root,brand_major,brand_minor,brand_leaf,publisher,date,channel,top_level_category,placement,spend_usd,impressions
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Feed,87517.15,12110844
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Reels,36870.2,5102200
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Stories,872.51,120740
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,In-Stream,5926.15,331137
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,walmart.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,15019.29,2043414
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,105961.23,3832547
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,wunderground.com (The Weather Company),2025-01-01,Desktop Display,Consumer Packaged Goods,Other,157.86,134595
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,chicagotribune.com (Tribune Media),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,2490.28,248408
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,nypost.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1052.28,90285
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,upi.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,18.14,1341
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,screenrant.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,371.09,80768
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,collider.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,259.33,17442
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,ktla.com (Tribune Media),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1179.0,76261
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Reels,59975.47,7423785
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Stories,8950.28,1107863
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Feed,61091.86,7561958
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Twitch,2025-01-01,Desktop Video,Consumer Packaged Goods,In-Stream,3450.75,154362
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,nexusmods.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,5.05,2420
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,baseballamerica.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1239.25,17922
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,mathway.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,21653.57,313153
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Tubi,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,7151.33,310490
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,onmilwaukee.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1610.04,23284
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,TikTok,2025-01-01,TikTok,Consumer Packaged Goods,Feed,8987.28,927620
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Paramount+,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,2554.41,119778
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-01-01,OTT,Consumer Packaged Goods,In-Stream,66656.77,2691149
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,cbr.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,337.39,68221
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,kaaltv.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,5.05,1021
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,thegamer.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,227.31,45963
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Amazon Prime Video,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,2751.43,88750
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,yahoo.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,3855.08,1417011
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,cnet.com (CBS Interactive),2025-01-01,Desktop Display,Consumer Packaged Goods,Other,1045.1,287919
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,fandom.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,295.11,51393
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,washingtonpost.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,559.25,63959
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,people.com (Meredith),2025-01-01,Desktop Display,Consumer Packaged Goods,Other,391.14,102622
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,buzzfeed.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,481.94,154883
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,businessinsider.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,44.16,6137
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,zdnet.com (CBS Interactive),2025-01-01,Desktop Display,Consumer Packaged Goods,Other,358.73,104572
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Reels,144.72,17913
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Feed,587.86,81349
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,In-Stream,513.4,32749
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,Feed,84.44,70420
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,flyertalk.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,285.22,37470
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Stories,293.75,40650
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Feed,5287.29,731670
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Marketplace,4129.35,571430
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,In-Stream,610.49,34112
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Feed,5701.32,705710
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Reels,12110.7,1499054
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Stories,308.93,38240
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Snapchat,2025-01-01,Snapchat,Consumer Packaged Goods,Camera (AR),197.24,36957
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-01-01,Mobile Display,Consumer Packaged Goods,Other,75.33,9102
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Feed,196981.78,27258867
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Reels,39390.78,5451002
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Stories,4715.9,652599
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,Reels,9908.16,1230311
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,336.45,35588
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,In-Stream,224224.98,13581487
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,Feed,3807.58,3175170
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,16306.98,589812
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Reels,715080.62,88512988
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Feed,84771.65,10493049
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Stories,105765.09,13091602
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-01-01,Snapchat,Consumer Packaged Goods,Spotlight,42052.38,7879531
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-01-01,Snapchat,Consumer Packaged Goods,Feed,95399.69,17875440
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Tubi,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,32952.25,1430689
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,19840.06,528322
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,TikTok,2025-01-01,TikTok,Consumer Packaged Goods,Feed,159335.15,16445736
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-01-01,OTT,Consumer Packaged Goods,In-Stream,129256.07,5218480
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Amazon Prime Video,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,2545.73,82118
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Feed,578.36,80035
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-01-01,YouTube,Consumer Packaged Goods,In-Stream,83.31,46550
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Stories,1026.63,127077
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-01-01,Facebook,<uncategorized>,Reels,1437.17,198879
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-01-01,Facebook,<uncategorized>,Feed,3740.86,517668
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Marketplace,302.7,41888
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Feed,50212.07,6948464
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Reels,1204.66,166704
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-01-01,Facebook,Consumer Packaged Goods,Stories,610.76,84519
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-01-01,YouTube,Consumer Packaged Goods,In-Stream,2684.56,266128
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),fandom.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,32.49,7910
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,133023.75,4811373
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),nydailynews.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,4016.6,286524
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),chicagotribune.com (Tribune Media),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,13296.39,1326329
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),yardbarker.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1021.26,78967
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),nypost.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,634.88,54473
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),biblegateway.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,75.0,18292
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),baltimoresun.com (Tribune Media),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,4739.95,410524
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),sun-sentinel.com (Tribune Media),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,4766.16,244385
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),doodle.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,2.89,986
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),seattletimes.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,494.61,30709
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),heavy.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,360.33,36560
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Feed,15253.84,1888106
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Stories,14243.75,1763088
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-01-01,Instagram,Consumer Packaged Goods,Reels,7509.8,929563
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),si.com (Sports Illustrated) (Maven),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,14504.88,1085725
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),triblive.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,197.14,10388
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Pluto TV,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,14185.49,665340
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),hypesouthflorida.com (Tribune Media),2025-01-01,Desktop Video,Consumer Packaged Goods,Other,5.63,100
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),metro.us,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1092.14,41454
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),goskagit.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,12171.96,176031
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),recorderonline.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,8.16,118
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),sciencenews.org,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,39.35,12971
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Peacock,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,6659.39,177334
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,67997.54,3188448
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),behindthesteelcurtain.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,10.6,2144
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),bleedinggreennation.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,21062.8,312684
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),bloggingtheboys.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,75.1,15185
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),cincyjungle.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,10.93,2210
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),fieldgulls.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,1673.86,27717
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),ninersnation.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,18.52,3744
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),patspulpit.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,12.24,2475
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),prideofdetroit.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,3770.22,57987
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-01-01,OTT,Consumer Packaged Goods,In-Stream,24078.66,972134
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),colonist.io,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,82.43,28139
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),essentiallysports.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,11226.22,162350
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),deseret.com,2025-01-01,Desktop Video,Consumer Packaged Goods,Other,7866.47,113763
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,46837.88,1510847
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),denvergazette.com,2025-01-01,Desktop Display,Consumer Packaged Goods,Other,72.62,24787
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-01-01,OTT,Consumer Packaged Goods,In-Stream,170080.58,4571812
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-01-01,Facebook,Food & Dining Services,Reels,1524.48,210961
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-01-01,Facebook,Food & Dining Services,Marketplace,606.56,83938
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-01-01,Facebook,Food & Dining Services,Stories,5916.16,818695
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-01-01,Facebook,Food & Dining Services,Other,1159.17,160409
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-01-01,Facebook,Food & Dining Services,Feed,85893.72,11886180
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-01-01,YouTube,Food & Dining Services,Feed,45.54,37975
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-01-01,YouTube,Food & Dining Services,In-Stream,8517.47,574905
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-01-01,YouTube,Food & Dining Services,Reels,26.46,3285
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-01-01,Instagram,Food & Dining Services,Reels,6331.44,783695
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-01-01,Instagram,Food & Dining Services,Stories,1660.09,205487
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-01-01,Instagram,Food & Dining Services,Feed,300.19,37158
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",TikTok,2025-01-01,TikTok,Food & Dining Services,Feed,35672.45,3681923
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,170974.87,23659826
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Stories,81569.58,11287758
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Reels,15735.68,2177532
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-02-01,YouTube,Consumer Packaged Goods,In-Stream,59236.65,3309964
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,walmart.com,2025-02-01,Desktop Display,Consumer Packaged Goods,Other,7835.0,1065969
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,618541.43,22372135
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Feed,70398.57,8713937
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Reels,67146.65,8311425
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Stories,16944.37,2097387
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Twitch,2025-02-01,Desktop Video,Consumer Packaged Goods,In-Stream,23444.21,1048727
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Tubi,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,17842.54,774670
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Peacock,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,96494.74,2569565
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,TikTok,2025-02-01,TikTok,Consumer Packaged Goods,Feed,102504.63,10579989
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Paramount+,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,2311.95,108408
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Max,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,6012.94,176850
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-02-01,OTT,Consumer Packaged Goods,In-Stream,285053.69,11508541
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Amazon Prime Video,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,1647.94,53157
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Stories,282.32,39068
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,1387.8,192047
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,YouTube,2025-02-01,YouTube,Consumer Packaged Goods,In-Stream,236.55,17624
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Feed,580.93,71908
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,258.47,35768
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,YouTube,2025-02-01,YouTube,Consumer Packaged Goods,In-Stream,323.56,18079
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,thingiverse.com,2025-02-01,Mobile Display,Consumer Packaged Goods,Other,124.96,53000
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Stories,553.34,76573
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,139360.39,19284963
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Reels,3790.73,524570
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Marketplace,27172.02,3760117
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Other,265.9,36795
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Reels,48612.06,6017194
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Stories,8875.54,1098615
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Feed,100853.11,12483595
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-02-01,Desktop Display,Consumer Packaged Goods,Other,437.58,32826
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-02-01,Mobile Display,Consumer Packaged Goods,Other,500.32,60462
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Reels,32806.29,4539798
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Stories,2182.44,302011
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,317787.21,43976050
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-02-01,Desktop Display,Consumer Packaged Goods,Other,97.74,10336
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-02-01,YouTube,Consumer Packaged Goods,Reels,2568.18,318901
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-02-01,YouTube,Consumer Packaged Goods,Feed,12199.75,10172963
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-02-01,YouTube,Consumer Packaged Goods,In-Stream,112225.24,7131463
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,11519.31,416642
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Stories,141957.5,17571480
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Reels,804462.87,99576442
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Feed,46954.83,5812054
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-02-01,Snapchat,Consumer Packaged Goods,Spotlight,39901.9,7476587
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-02-01,Snapchat,Consumer Packaged Goods,Feed,117404.5,21998573
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-02-01,Snapchat,Consumer Packaged Goods,Camera (AR),38925.74,7293678
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Tubi,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,6386.8,277296
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,54258.77,1444860
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,TikTok,2025-02-01,TikTok,Consumer Packaged Goods,Feed,167413.98,17279591
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Paramount+,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,19445.2,911797
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-02-01,OTT,Consumer Packaged Goods,In-Stream,124462.81,5024963
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Reels,824.44,114087
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,561.16,77654
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Stories,2918.06,361193
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-02-01,Facebook,<uncategorized>,Reels,297.24,41132
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-02-01,Facebook,<uncategorized>,Feed,6036.6,835355
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Marketplace,268.09,37099
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Feed,29605.27,4096836
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Stories,2150.16,297542
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-02-01,Facebook,Consumer Packaged Goods,Reels,1364.26,188789
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-02-01,YouTube,Consumer Packaged Goods,In-Stream,3020.74,321220
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,70431.21,2547440
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),yardbarker.com,2025-02-01,Desktop Video,Consumer Packaged Goods,Other,317.23,28812
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),ajc.com (Cox Enterprises),2025-02-01,Desktop Video,Consumer Packaged Goods,Other,111.31,9887
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),baltimoresun.com (Tribune Media),2025-02-01,Desktop Video,Consumer Packaged Goods,Other,1741.71,150848
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Feed,9248.8,1144813
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Reels,7271.15,900022
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-02-01,Instagram,Consumer Packaged Goods,Stories,16780.19,2077056
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),triblive.com,2025-02-01,Desktop Video,Consumer Packaged Goods,Other,3438.02,154231
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),hypesouthflorida.com (Tribune Media),2025-02-01,Desktop Video,Consumer Packaged Goods,Other,2.14,31
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Peacock,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,3047.62,81155
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,25398.87,1190969
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-02-01,OTT,Consumer Packaged Goods,In-Stream,33966.37,1371330
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),deseret.com,2025-02-01,Desktop Video,Consumer Packaged Goods,Other,2022.56,29250
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,151077.58,4873229
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-02-01,OTT,Consumer Packaged Goods,In-Stream,92467.88,2485619
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-02-01,Facebook,Food & Dining Services,Stories,3682.83,509639
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-02-01,Facebook,Food & Dining Services,Feed,70826.77,9801148
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-02-01,Facebook,Food & Dining Services,Other,888.07,122892
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-02-01,YouTube,Food & Dining Services,In-Stream,2210.05,131621
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-02-01,YouTube,Food & Dining Services,Feed,38.43,32048
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-02-01,Instagram,Food & Dining Services,Stories,1757.25,217512
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-02-01,Instagram,Food & Dining Services,Feed,730.61,90436
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-02-01,Instagram,Food & Dining Services,Reels,1031.23,127645
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",TikTok,2025-02-01,TikTok,Food & Dining Services,Feed,2303.22,237726
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Feed,175465.6,24281282
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Stories,19341.37,2676505
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Reels,27075.5,3746757
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-03-01,YouTube,Consumer Packaged Goods,In-Stream,3841.05,214624
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,walmart.com,2025-03-01,Desktop Display,Consumer Packaged Goods,Other,13282.99,1807183
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,256808.81,9288574
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Stories,17819.72,2205727
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Reels,36789.42,4553797
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Feed,135019.51,16712734
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Twitch,2025-03-01,Desktop Video,Consumer Packaged Goods,In-Stream,7674.13,343286
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Pluto TV,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,18495.54,867494
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Tubi,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,2340.17,101601
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Peacock,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,54420.85,1449174
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,TikTok,2025-03-01,TikTok,Consumer Packaged Goods,Feed,109349.38,11286468
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Paramount+,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,3072.53,144072
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-03-01,OTT,Consumer Packaged Goods,In-Stream,227774.49,9195987
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Amazon Prime Video,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,2161.63,69729
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Stories,278.02,38473
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,YouTube,2025-03-01,YouTube,Consumer Packaged Goods,In-Stream,443.71,33058
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Feed,276.0,38193
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Feed,15076.34,2086285
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Reels,3847.69,532451
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Stories,277.56,38409
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Marketplace,14368.08,1988282
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Stories,549.64,68034
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Reels,28284.85,3501106
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Feed,18656.57,2309321
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-03-01,Mobile Display,Consumer Packaged Goods,Other,970.3,117153
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-03-01,Desktop Display,Consumer Packaged Goods,Other,293.91,21618
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Feed,89216.05,12345905
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Reels,12217.84,1690731
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Stories,1111.18,153767
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-03-01,YouTube,Consumer Packaged Goods,Reels,634.83,78828
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-03-01,Desktop Display,Consumer Packaged Goods,Other,142.4,15062
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-03-01,YouTube,Consumer Packaged Goods,Feed,12423.95,10359961
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-03-01,YouTube,Consumer Packaged Goods,In-Stream,22970.94,1553687
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,11697.3,423083
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Feed,26698.49,3304730
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Stories,36069.11,4464651
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Reels,297790.02,36860638
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Pluto TV,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,8293.63,388995
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-03-01,Snapchat,Consumer Packaged Goods,Spotlight,8804.46,1649729
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-03-01,Snapchat,Consumer Packaged Goods,Feed,17115.01,3206911
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Snapchat,2025-03-01,Snapchat,Consumer Packaged Goods,Camera (AR),28378.89,5317471
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Tubi,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,10101.42,438572
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,14419.51,383979
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,TikTok,2025-03-01,TikTok,Consumer Packaged Goods,Feed,65123.21,6721675
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Paramount+,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,19998.17,937724
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-03-01,OTT,Consumer Packaged Goods,In-Stream,115367.34,4657744
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Amazon Prime Video,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,909.55,29339
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Disney+,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,3393.78,91228
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Reels,837.66,115916
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Feed,22741.1,3146956
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Marketplace,566.14,78344
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-03-01,Facebook,Consumer Packaged Goods,Stories,1636.09,226406
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-03-01,YouTube,Consumer Packaged Goods,In-Stream,144.45,16143
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,31911.43,1154207
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Stories,16618.02,2056985
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Reels,6416.08,794186
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-03-01,Instagram,Consumer Packaged Goods,Feed,6672.93,825983
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Pluto TV,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,8684.19,407313
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,16751.92,785509
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Max,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,6875.07,202207
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,39720.18,1281248
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-03-01,OTT,Consumer Packaged Goods,In-Stream,22863.29,614586
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-03-01,Facebook,Food & Dining Services,Feed,19963.34,2762568
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-03-01,YouTube,Food & Dining Services,Feed,26.91,22436
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-03-01,YouTube,Food & Dining Services,In-Stream,2154.59,144483
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-03-01,YouTube,Food & Dining Services,Reels,262.82,32634
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-03-01,Instagram,Food & Dining Services,Feed,129.93,16082
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-03-01,Instagram,Food & Dining Services,Stories,300.01,37136
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Feed,153941.28,21172837
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Reels,17140.45,2357479
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Stories,54847.86,7543707
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-04-01,YouTube,Consumer Packaged Goods,In-Stream,2939.7,135953
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,walmart.com,2025-04-01,Desktop Display,Consumer Packaged Goods,Other,7271.65,989326
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,331831.89,11133710
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Feed,44369.92,5231068
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Reels,27134.64,3199074
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Stories,7858.35,926475
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Pluto TV,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,6738.52,311476
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Tubi,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,2906.55,118261
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Peacock,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,46940.53,1123112
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,TikTok,2025-04-01,TikTok,Consumer Packaged Goods,Feed,38136.76,3644335
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Paramount+,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,4235.84,190056
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-04-01,OTT,Consumer Packaged Goods,In-Stream,225675.7,9460381
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Amazon Prime Video,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,3728.77,111360
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Feed,143.25,16888
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Feed,14833.78,2040217
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Stories,2330.34,320512
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Reels,882.73,121410
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Marketplace,8579.66,1180031
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-04-01,YouTube,Consumer Packaged Goods,In-Stream,694.34,51892
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-04-01,YouTube,Consumer Packaged Goods,Feed,551.87,380915
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,nascar.com,2025-04-01,Desktop Display,Consumer Packaged Goods,Other,8412.97,328052
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,nascar.com,2025-04-01,Mobile Display,Consumer Packaged Goods,Other,233.58,18518
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Reels,60530.08,7136267
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Feed,8932.16,1053069
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Stories,3108.54,366489
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Feed,1762.39,242400
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,235179.38,7890756
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Reels,86931.26,10248888
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Stories,43886.75,5174094
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Feed,122169.23,14403300
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,TikTok,2025-04-01,TikTok,Consumer Packaged Goods,Feed,218195.56,20850691
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-04-01,OTT,Consumer Packaged Goods,In-Stream,2275.97,95409
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Stories,3185.98,438196
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Feed,8787.99,1208690
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Stories,565.4,66659
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Reels,577.75,68116
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-04-01,Facebook,<uncategorized>,Feed,572.22,78702
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Marketplace,5456.64,750499
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Stories,2380.12,327359
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Feed,15954.26,2194318
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-04-01,Facebook,Consumer Packaged Goods,Reels,291.44,40084
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-04-01,YouTube,Consumer Packaged Goods,In-Stream,382.62,35390
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,23385.04,784624
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Feed,6730.56,793507
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Stories,3603.82,424877
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-04-01,Instagram,Consumer Packaged Goods,Reels,23019.84,2713951
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,10388.54,466118
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Max,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,16163.47,440132
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-04-01,OTT,Consumer Packaged Goods,In-Stream,8194.06,343496
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,10325.99,308387
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-04-01,OTT,Consumer Packaged Goods,In-Stream,19751.37,425490
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-04-01,Facebook,Food & Dining Services,Feed,96080.15,13214700
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-04-01,Facebook,Food & Dining Services,Reels,3191.02,438887
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-04-01,Facebook,Food & Dining Services,Stories,4318.94,594019
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-04-01,YouTube,Food & Dining Services,In-Stream,1447.89,66961
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-04-01,YouTube,Food & Dining Services,Feed,89.91,62061
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-04-01,Instagram,Food & Dining Services,Reels,9616.34,1133734
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-04-01,Instagram,Food & Dining Services,Stories,1127.95,132980
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-04-01,Instagram,Food & Dining Services,Feed,282.39,33292
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Feed,152949.03,21036400
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Stories,26860.94,3694416
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Reels,1483.63,204056
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-05-01,YouTube,Consumer Packaged Goods,In-Stream,1756.1,81213
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,walmart.com,2025-05-01,Desktop Display,Consumer Packaged Goods,Other,9371.0,1274947
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,206545.71,6930111
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Stories,4601.92,542556
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Reels,55113.01,6497698
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Feed,36716.33,4328776
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Peacock,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,11240.1,268933
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,TikTok,2025-05-01,TikTok,Consumer Packaged Goods,Feed,741.55,70862
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Paramount+,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,2004.62,89944
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-05-01,OTT,Consumer Packaged Goods,In-Stream,93110.78,3903219
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Amazon Prime Video,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,3485.49,104095
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Disney+,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,1447.33,31180
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Stories,889.4,122327
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Feed,9397.71,1292548
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Reels,1195.48,164425
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Marketplace,3866.59,531806
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-05-01,YouTube,Consumer Packaged Goods,In-Stream,1509.79,93096
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,nypost.com,2025-05-01,Desktop Video,Consumer Packaged Goods,Other,631.15,54153
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Stories,2500.78,294838
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Reels,162100.35,19111222
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Feed,19181.19,2261427
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,whatculture.com (Mandatory),2025-05-01,Mobile Display,Consumer Packaged Goods,Other,97.51,30980
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,backyardchickens.com,2025-05-01,Desktop Display,Consumer Packaged Goods,Other,12.5,3987
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,kenkenpuzzle.com,2025-05-01,Desktop Display,Consumer Packaged Goods,Other,25.99,8812
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-05-01,Mobile Display,Consumer Packaged Goods,Other,113.06,13653
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,behindthevoiceactors.com,2025-05-01,Mobile Display,Consumer Packaged Goods,Other,63.33,26562
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,kitchensanctuary.com,2025-05-01,Desktop Display,Consumer Packaged Goods,Other,12.8,4192
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Stories,286.84,39452
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Feed,1148.82,158008
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-05-01,YouTube,Consumer Packaged Goods,In-Stream,2662.72,123142
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,1366798.54,45859060
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Feed,103890.73,12248374
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Stories,43605.01,5140883
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Reels,83502.5,9844672
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Pluto TV,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,36784.82,1700315
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Tubi,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,3764.45,153169
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,6318.09,151168
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,TikTok,2025-05-01,TikTok,Consumer Packaged Goods,Feed,100731.63,9625878
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Paramount+,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,20454.04,917736
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Max,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,5513.26,150126
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-05-01,OTT,Consumer Packaged Goods,In-Stream,116449.9,4881606
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Amazon Prime Video,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,3642.24,108775
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Disney+,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,717.74,15462
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Stories,1203.09,165471
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Feed,2089.83,287432
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Other,293.34,40345
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-05-01,Facebook,<uncategorized>,Reels,606.96,83480
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-05-01,Facebook,<uncategorized>,Stories,292.58,40241
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-05-01,Facebook,<uncategorized>,Feed,2066.98,284291
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Feed,87070.29,11975533
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Stories,19272.89,2650767
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-05-01,Facebook,Consumer Packaged Goods,Reels,2639.62,363050
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-05-01,YouTube,Consumer Packaged Goods,In-Stream,167.95,15534
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,6765.82,227008
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Feed,35801.94,4220979
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Stories,41378.59,4878451
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-05-01,Instagram,Consumer Packaged Goods,Reels,90577.95,10678946
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,9626.84,431940
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-05-01,OTT,Consumer Packaged Goods,In-Stream,15097.47,632889
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,43400.97,1296161
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-05-01,OTT,Consumer Packaged Goods,In-Stream,26006.06,560234
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-05-01,Facebook,Food & Dining Services,Stories,887.99,122134
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-05-01,Facebook,Food & Dining Services,Feed,27188.23,3739429
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-05-01,Facebook,Food & Dining Services,Reels,299.0,41124
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-05-01,YouTube,Food & Dining Services,In-Stream,2043.6,94511
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-05-01,Instagram,Food & Dining Services,Stories,22127.38,2608782
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-05-01,Instagram,Food & Dining Services,Reels,27471.31,3238826
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-05-01,Instagram,Food & Dining Services,Feed,13717.86,1617312
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Feed,79939.29,10994728
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Stories,18829.55,2589794
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Reels,12634.7,1737761
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-06-01,YouTube,Consumer Packaged Goods,In-Stream,716.03,33114
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,1345.14,45132
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Reels,94187.73,11104454
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Stories,2878.37,339351
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Feed,25280.72,2980519
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Pluto TV,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,91718.68,4239544
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Tubi,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,8200.49,333661
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Peacock,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,16795.86,401862
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,TikTok,2025-06-01,TikTok,Consumer Packaged Goods,Feed,16679.38,1593875
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Paramount+,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,3624.42,162623
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Max,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,14037.96,382257
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-06-01,OTT,Consumer Packaged Goods,In-Stream,167603.26,7025968
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,cakewrecks.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,23.33,5274
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,buzzfeed.com,2025-06-01,Desktop Display,Consumer Packaged Goods,Other,3297.31,972573
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,food.com (Scripps Network Digital),2025-06-01,Mobile Display,Consumer Packaged Goods,Other,2796.78,512031
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,parade.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,75.54,29155
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,eater.com (Vox Media),2025-06-01,Mobile Display,Consumer Packaged Goods,Other,90.51,28144
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thekrazycouponlady.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,194.63,31404
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,browneyedbaker.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,12.85,4323
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,cookingchanneltv.com (Scripps Network Digital),2025-06-01,Mobile Display,Consumer Packaged Goods,Other,17.49,2570
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,paleomg.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,5.14,1229
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,onegoodthingbyjillee.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,44.42,8124
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,budget101.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,4.69,2002
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,liquor.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,65.55,18841
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,amazingribs.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,3.58,2579
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,pinchofyum.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,13.14,7086
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,sallysbakingaddiction.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,58.93,11190
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,extrapetite.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,12.89,1533
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thesimplyluxuriouslife.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,0.58,533
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,beeradvocate.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,82.39,35039
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,ohmyveggies.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,1.92,819
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,smokingmeatforums.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,5.79,2474
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,alphamom.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,16.83,7040
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,tablefortwoblog.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,7.84,3346
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,melskitchencafe.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,13.29,5671
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,catchmyparty.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,9.46,4038
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,crazyforcrust.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,104.79,44734
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,culinaryhill.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,175.46,74918
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thatlowcarblife.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,96.69,41265
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,joyfoodsunshine.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,74.71,31882
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,ohclary.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,3.91,1602
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,houseofnasheats.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,160.58,68527
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,crazylittleprojects.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,3.85,1646
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thebusybaker.ca,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,23.84,10180
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,gonnawantseconds.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,214.35,91468
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,minimalistbaker.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,128.43,54813
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,justsotasty.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,25.47,10868
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,happymomhacks.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,6.65,2837
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,favfamilyrecipes.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,228.18,97400
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,blessthismessplease.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,155.25,66255
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,kitchensanctuary.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,75.52,32236
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,sweetashoney.co,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,13.18,5624
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,tasteandtellblog.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,28.22,12052
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,101cookingfortwo.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,10.97,4684
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,bestrecipebox.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,10.53,4494
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thesouthernladycooks.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,11.21,4784
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,cookincanuck.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,21.19,9047
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,foodal.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,5.42,2313
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,babyfoode.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,14.24,6077
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thehappierhomemaker.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,8.03,3428
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,theflavoursofkitchen.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,3.13,1337
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,realfoodwholelife.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,15.67,6687
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Stories,55967.34,7697677
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Feed,249463.21,34310867
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Reels,7340.73,1009633
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Marketplace,2440.07,335605
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-06-01,YouTube,Consumer Packaged Goods,In-Stream,2027.21,147517
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Stories,13150.55,1550417
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Reels,218397.45,25748525
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Feed,57036.62,6724474
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-06-01,Desktop Display,Consumer Packaged Goods,Other,204.25,15319
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-06-01,Mobile Display,Consumer Packaged Goods,Other,233.82,28216
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,tab.gladly.io,2025-06-01,Desktop Display,Consumer Packaged Goods,Other,110.43,37456
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-06-01,YouTube,Consumer Packaged Goods,In-Stream,2598.03,120153
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,665838.23,22340348
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Stories,1543.12,181930
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Reels,12653.7,1491834
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Feed,3236.73,381601
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Pluto TV,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,12811.86,592206
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Tubi,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,2302.67,93691
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,18536.79,443516
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,TikTok,2025-06-01,TikTok,Consumer Packaged Goods,Feed,17137.15,1637620
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-06-01,OTT,Consumer Packaged Goods,In-Stream,167773.45,7033102
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Amazon Prime Video,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,2108.08,62955
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Disney+,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,784.42,16898
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-06-01,YouTube,Consumer Packaged Goods,Feed,136.19,94001
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-06-01,Desktop Display,Consumer Packaged Goods,Other,116.99,12374
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-06-01,YouTube,Consumer Packaged Goods,In-Stream,454.05,209981
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Stories,113.55,13387
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-06-01,Facebook,<uncategorized>,Reels,272.72,37509
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-06-01,Facebook,<uncategorized>,Feed,1919.85,264055
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Stories,21464.8,2952235
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Feed,53619.34,7374733
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-06-01,Facebook,Consumer Packaged Goods,Reels,4679.8,643655
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-06-01,YouTube,Consumer Packaged Goods,In-Stream,176.65,16339
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,304717.32,10223928
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Feed,28818.46,3397617
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Reels,54229.29,6393489
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-06-01,Instagram,Consumer Packaged Goods,Stories,22876.42,2697065
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Pluto TV,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,49631.52,2294135
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Tubi,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,44906.3,1827147
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Peacock,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,45602.33,1091093
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-06-01,OTT,Consumer Packaged Goods,In-Stream,24407.3,1023158
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,127127.14,3796496
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-06-01,OTT,Consumer Packaged Goods,In-Stream,163237.56,3516461
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-06-01,Facebook,Food & Dining Services,Feed,6565.64,903031
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-06-01,Facebook,Food & Dining Services,Stories,578.63,79584
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-06-01,Instagram,Food & Dining Services,Feed,24208.88,2854173
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-06-01,Instagram,Food & Dining Services,Reels,9879.99,1164821
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-06-01,Instagram,Food & Dining Services,Stories,3848.84,453767
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Stories,45173.73,6382127
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Feed,308005.64,43514962
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Reels,113250.7,16000033
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-07-01,YouTube,Consumer Packaged Goods,In-Stream,580.14,35116
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,97302.0,3013749
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,crunchgear.com,2025-07-01,Mobile Display,Consumer Packaged Goods,Other,0.51,216
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Stories,5303.18,644974
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Reels,46381.4,5640892
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Feed,16578.77,2016305
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,allrecipes.com (Meredith),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,756.09,369226
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,people.com (Meredith),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,1336.59,352532
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,buzzfeed.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,329.95,106004
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,nymag.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,221.32,98394
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,billboard.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,205.43,102659
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,realsimple.com (Meredith),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,2782.43,362831
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,marthastewart.com (Meredith),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,813.55,231657
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,elle.com (Hearst Digital),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,203.21,99768
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,simplyrecipes.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,500.87,117284
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,cosmopolitan.com (Hearst Digital),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,41.91,27220
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,eater.com (Vox Media),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,85.66,18076
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,whowhatwear.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,35.51,7182
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Reels,231.02,28096
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,si.com (Sports Illustrated) (Maven),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,834.58,108151
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,techradar.com (Future Publishing),2025-07-01,Desktop Display,Consumer Packaged Goods,Other,29.6,11647
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,thespruce.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,216.11,69456
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,tasty.co,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,80.87,25986
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Feed,535.67,75679
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Other,532.77,75270
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Reels,178267.67,25185597
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Marketplace,2213.68,312749
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Feed,339764.26,48001791
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Stories,87701.6,12390460
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-07-01,YouTube,Consumer Packaged Goods,Feed,83.84,56809
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-07-01,YouTube,Consumer Packaged Goods,In-Stream,5290.11,269736
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Reels,349204.56,42469923
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Stories,19796.94,2407686
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Feed,71488.26,8694337
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-07-01,Mobile Display,Consumer Packaged Goods,Other,113.01,13653
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,324.23,23719
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-07-01,YouTube,Consumer Packaged Goods,In-Stream,364.66,16555
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,45.2,4782
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,4182.04,129531
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Stories,553.39,67301
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Reels,328.21,39916
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Feed,1102.05,134032
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-07-01,OTT,Consumer Packaged Goods,In-Stream,14401.4,585358
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Reels,1596.4,225537
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Feed,19823.59,2800672
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Stories,4696.23,663485
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,255.35,27014
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-07-01,YouTube,Consumer Packaged Goods,Feed,51.25,34725
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-07-01,YouTube,Consumer Packaged Goods,In-Stream,2459.04,1116358
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Stories,5970.03,726066
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Reels,335.76,40835
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Feed,2897.12,352347
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-07-01,Facebook,<uncategorized>,Feed,2438.41,344498
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-07-01,Facebook,<uncategorized>,Reels,538.98,76148
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Stories,36801.4,5199281
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Reels,52297.78,7388618
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-07-01,Facebook,Consumer Packaged Goods,Feed,61587.62,8701065
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-07-01,YouTube,Consumer Packaged Goods,In-Stream,2017.54,121320
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,505106.54,15644726
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),slickdeals.net,2025-07-01,Desktop Display,Consumer Packaged Goods,Other,139.31,29841
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),screenrant.com,2025-07-01,Desktop Video,Consumer Packaged Goods,Other,228.95,49832
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Feed,23066.41,2805329
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Stories,14687.49,1786284
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-07-01,Instagram,Consumer Packaged Goods,Reels,75439.89,9174941
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),androidpolice.com,2025-07-01,Desktop Video,Consumer Packaged Goods,Other,89.71,9927
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Pluto TV,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,7075.56,300840
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Tubi,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,84733.83,3342843
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Peacock,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,27562.62,639423
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,10894.36,436964
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-07-01,OTT,Consumer Packaged Goods,In-Stream,55200.19,2243663
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),cbr.com,2025-07-01,Desktop Video,Consumer Packaged Goods,Other,112.1,22666
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,184603.48,5345204
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-07-01,OTT,Consumer Packaged Goods,In-Stream,185412.57,4138812
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-07-01,Facebook,Food & Dining Services,Feed,14414.7,2036511
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-07-01,Facebook,Food & Dining Services,Reels,265.23,37472
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Facebook,2025-07-01,Facebook,Food & Dining Services,Stories,1358.73,191961
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-07-01,Instagram,Food & Dining Services,Reels,332.0,40377
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-07-01,Instagram,Food & Dining Services,Feed,1042.02,126730
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-07-01,Instagram,Food & Dining Services,Stories,661.34,80433
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Reels,269817.77,38119753
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Feed,802946.1,113439902
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Stories,68345.24,9655795
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Hulu,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,189255.2,5861801
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,usnews.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,153.15,48707
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,sun-sentinel.com (Tribune Media),2025-08-01,Mobile Display,Consumer Packaged Goods,Other,44.6,15913
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Feed,323.9,39392
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Reels,630.24,76650
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,kfor.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,46.67,15433
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,tucsonnewsnow.com (WorldNow),2025-08-01,Mobile Display,Consumer Packaged Goods,Other,15.41,6813
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,kark.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,6.09,2555
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,thestate.com (McClatchy),2025-08-01,Mobile Display,Consumer Packaged Goods,Other,2.7,2683
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,natashaskitchen.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,100.41,22762
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,cricbuzz.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,81.71,68716
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,fatherly.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,32.46,13618
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,wqow.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,21.01,8814
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,rnbcincy.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,3.3,1330
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,tricolor.entravision.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,0.57,240
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,wrtv.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,73.61,30882
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Reels,251.54,35538
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Feed,999.98,141277
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Reels,86204.67,12178961
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Feed,156096.52,22053251
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Marketplace,522.57,73828
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Stories,44748.99,6322123
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Other,1930.56,272749
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-08-01,YouTube,Consumer Packaged Goods,In-Stream,1420.29,85972
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Reels,445360.22,54164059
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Stories,9324.13,1133992
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Feed,48221.31,5864621
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,226.23,27305
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-08-01,YouTube,Consumer Packaged Goods,In-Stream,7665.08,347984
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,31886.66,987624
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Feed,872.09,106061
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Pluto TV,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,45133.7,1919005
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Tubi,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,7192.7,283764
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,30514.9,707913
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Max,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,5819.59,153652
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-08-01,OTT,Consumer Packaged Goods,In-Stream,141174.82,5738172
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Amazon Prime Video,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,234.44,6788
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Other,2377.74,335926
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Feed,53558.51,7566724
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Reels,260.76,36840
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Stories,11499.76,1624683
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-08-01,YouTube,Consumer Packaged Goods,In-Stream,797.74,362162
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-08-01,YouTube,Consumer Packaged Goods,Feed,102.82,69671
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-08-01,Desktop Display,Consumer Packaged Goods,Other,45.42,4806
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Feed,8485.6,1032016
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Reels,2239.59,272378
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Stories,14118.57,1717082
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,klbjfm.com,2025-08-01,Desktop Display,Consumer Packaged Goods,Other,169.83,11172
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,klbjfm.com,2025-08-01,Mobile Display,Consumer Packaged Goods,Other,4.93,519
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-08-01,Facebook,<uncategorized>,Feed,805.97,113868
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Marketplace,258.09,36463
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Reels,235990.0,33340642
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Stories,150285.86,21232375
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-08-01,Facebook,Consumer Packaged Goods,Feed,444172.89,62752776
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-08-01,YouTube,Consumer Packaged Goods,In-Stream,1665.16,151192
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,948335.76,29372830
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),sparknotes.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,210.74,17228
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),screenrant.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,1397.27,304117
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),collider.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,259.43,17448
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Reels,424779.83,51661318
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Feed,135912.49,16529572
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-08-01,Instagram,Consumer Packaged Goods,Stories,74121.92,9014647
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),signupgenius.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,233.42,9900
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),androidpolice.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,87.34,9664
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),natashaskitchen.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,28.96,4634
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Pluto TV,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,58162.74,2472976
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),gamerant.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,27.73,5606
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Tubi,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,239637.79,9454124
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),livewellbakeoften.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,11.15,2255
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Peacock,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,68362.3,1585934
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,84519.66,3390010
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-08-01,OTT,Consumer Packaged Goods,In-Stream,99828.09,4057602
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),cbr.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,221.36,44758
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),thegamer.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,576.02,116471
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),solitaired.com,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,246.37,49817
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),wafflegame.net,2025-08-01,Desktop Video,Consumer Packaged Goods,Other,120.73,24412
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,351729.53,10184378
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-08-01,OTT,Consumer Packaged Goods,In-Stream,57612.45,1286014
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-08-01,YouTube,Food & Dining Services,Feed,3586.41,2429997
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-08-01,Instagram,Food & Dining Services,Stories,545.8,66380
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-08-01,Instagram,Food & Dining Services,Reels,2485.29,302258
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-08-01,Instagram,Food & Dining Services,Feed,767.08,93293
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Stories,13907.28,1964815
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Reels,26109.3,3688708
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Feed,103498.4,14622201
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,YouTube,2025-09-01,YouTube,Consumer Packaged Goods,In-Stream,10944.15,496847
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Feed,9729.84,1183333
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Stories,5555.49,675657
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Reels,35065.14,4264614
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,tvseriesfinale.com,2025-09-01,Mobile Display,Consumer Packaged Goods,Other,9.63,4041
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,OTT Streaming Services (General),2025-09-01,OTT,Consumer Packaged Goods,In-Stream,58853.51,2392158
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Amazon Prime Video,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,223.97,6485
+Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Blue Diamond Growers,Disney+,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,1702.54,38005
+"Chobani, Inc.",Chobani,Chobani,Chobani,Chobani,target.com,2025-09-01,Desktop Display,Consumer Packaged Goods,Other,71.66,24143
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Feed,3372.38,476449
+Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Country Archer Jerky Co.,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Reels,738.16,104287
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Reels,506.9,71614
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Marketplace,4178.95,590400
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Stories,983.23,138910
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Feed,8920.75,1260319
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,YouTube,2025-09-01,YouTube,Consumer Packaged Goods,In-Stream,739.82,44782
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Stories,2837.26,345067
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Feed,10087.53,1226839
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Reels,70544.97,8579645
+"Links Snacks, Inc.",Jack Link's,Jack Link's,Jack Link's,Jack Link's,dallascowboys.com,2025-09-01,Mobile Display,Consumer Packaged Goods,Other,194.64,23513
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Stories,265.23,37472
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Feed,697.78,98582
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,YouTube,2025-09-01,YouTube,Consumer Packaged Goods,In-Stream,6198.18,281386
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Hulu,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,20144.72,623945
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Reels,777.58,94568
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Stories,223.98,27240
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Peacock,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,5392.46,125099
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Paramount+,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,1084.63,43503
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Max,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,2608.78,68878
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,OTT Streaming Services (General),2025-09-01,OTT,Consumer Packaged Goods,In-Stream,94342.78,3834647
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Amazon Prime Video,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,777.84,22522
+"Mars, Incorporated",Mars Food,Kind Snacks,Kind Snacks,Kind Snacks,Disney+,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,276.54,6173
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Reels,528.95,74729
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Other,754.91,106653
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Stories,6470.5,914146
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Feed,75415.07,10654595
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-09-01,YouTube,Consumer Packaged Goods,Feed,159.56,108114
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,YouTube,2025-09-01,YouTube,Consumer Packaged Goods,In-Stream,2144.18,973420
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Feed,8295.43,1008885
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Reels,2644.7,321649
+Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Siete Family Foods,Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Stories,23304.75,2834302
+"Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.","Tillamook Country Smoker, Inc.",Facebook,2025-09-01,Facebook,<uncategorized>,Feed,480.07,67825
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Feed,265149.12,37460147
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Marketplace,33777.48,4772071
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Stories,35718.88,5046338
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Facebook,2025-09-01,Facebook,Consumer Packaged Goods,Reels,40566.54,5731205
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),YouTube,2025-09-01,YouTube,Consumer Packaged Goods,In-Stream,8028.16,558583
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Hulu,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,651833.89,20189306
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),screenrant.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,540.76,117698
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),collider.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,387.21,26043
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Stories,49602.0,6032580
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Feed,80289.03,9764727
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Instagram,2025-09-01,Instagram,Consumer Packaged Goods,Reels,250617.35,30480008
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),autoevolution.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,1906.88,385576
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),gamersheroes.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,25.6,2452
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),gamerant.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,9.29,1878
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Tubi,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,218837.98,8633532
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),lowcarbmaven.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,2.27,460
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),TikTok,2025-09-01,TikTok,Consumer Packaged Goods,Feed,1015.49,90248
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Paramount+,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,95814.53,3843047
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),minimalistbaker.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,589.03,119104
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Max,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,4340.03,114588
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),OTT Streaming Services (General),2025-09-01,OTT,Consumer Packaged Goods,In-Stream,187413.0,7617570
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),thegamer.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,368.62,74534
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),solitaired.com,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,280.19,56654
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),wafflegame.net,2025-09-01,Desktop Video,Consumer Packaged Goods,Other,255.75,51712
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Amazon Prime Video,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,187963.19,5442382
+We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),We Are The Chompians LLC (Chomps),Disney+,2025-09-01,OTT,Consumer Packaged Goods,In-Stream,174839.61,3902720
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-09-01,YouTube,Food & Dining Services,Feed,6161.69,4174943
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",YouTube,2025-09-01,YouTube,Food & Dining Services,In-Stream,241.04,21885
+"good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC","good culture, LLC",Instagram,2025-09-01,Instagram,Food & Dining Services,Stories,753.94,91693
